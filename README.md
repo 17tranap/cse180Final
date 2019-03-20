@@ -1,1 +1,17 @@
-# cse180Final
+# Python Scripts for Post-Processing of DESeq2 Output Files
+### Alexandria Tran, Riya Verma, Jiayan Ma, Peem Takoonsawat
+
+After completion of an RNA-seq differential expression analysis workflow, two files require post-processing for neater visualization. 
+
+One file contains normalized feature counts of each gene alignment for each sample -- referred to from now on as the "counts file". 
+Another contains relevant statistical information -- "stats file" from now on -- for the different levels of transcript maps to each gene across the different conditions: flox and knockdown of a gene of interest. 
+
+normalizedOutputFormatter.py takes two command-line args, the file path to the counts file and the file path to the stats file. It will then read each removed the mapped sequences that do no correspond to annotated genes (denoted by a geneid of "MSTRG") as well as the gene rows that hold trivial values such as all "0"s or "NA"s. Outputted files are names "RelevantNormalizedCountsDeseq.tabular" and "RelevantDESEQpvalueslog.tabular".
+
+
+These scripts were built to clean up the file outputs that used the Mus Musculus reference genome (FASTA) and genome annotations (.gff). Because of this the reads are mapped to UCSC indexed geneids that correspond to known genes. To get the known genes, we take the column of relevant geneids in "RelevantNormalizedCountsDeseq.tabular" and convert them using biotools.fr/mouse/ucsc_id_converter. In geneIDReplacer.py, a dictionary is formed with the tab-separated output form biotools and converts all geneids to the genes, excluding rows where geneids do not correspond to known genes. 
+
+
+With the known genes, we select only the rows with significant p-values of below 0.05 using getSignificantGenes.py and the relevant genes stats file. Using this set of significant genes, we then only select the feature counts rows of these genes in makeNewFeatureCounts.py. 
+
+This makeNewFeatureCounts.py file now is ready to be inputted to visualization softwares, 
