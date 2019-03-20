@@ -1,0 +1,4106 @@
+uc007aet.1	Xkr4
+uc007aeu.1	Xkr4
+uc007aev.1	
+uc007aex.2	Rp1
+uc007age.1	Gm26901
+uc007agf.1	
+uc007agz.1	Mcmdc2
+uc011wie.1	Mcmdc2
+uc033fhz.1	Tcf24
+uc011wil.1	Gm5523
+uc007aje.1	Kcnb2
+uc029qna.1	D030040B21Rik
+uc007akc.3	
+uc007ake.2	Pi15
+uc029qng.1	6720483E21Rik
+uc007aln.1	Khdc1a
+uc007ams.1	
+uc007amz.2	4931408C20Rik
+uc007anp.1	Khdrbs2
+uc007ant.4	
+uc057auf.1	
+uc007aou.1	
+uc007aqy.2	
+uc007asg.1	Gm26805
+uc007asz.1	
+uc007ata.1	
+uc007atm.1	Creg2
+uc007atn.2	Rfx8
+uc007aul.1	Slc9a4
+uc007avp.2	1500015O10Rik
+uc007avv.1	Mettl21c
+uc007avw.1	Mettl21c
+uc007awk.1	Mettl21e
+uc007awx.2	Dnah7b
+uc007awy.2	
+uc007axa.1	
+uc007axj.1	Tmeff2
+uc029qoi.1	
+uc007ayu.1	1700019A02Rik
+uc029qoo.1	
+uc029qop.1	
+uc007baw.1	
+uc011wle.2	
+uc007bbp.1	Aox2
+uc007bcm.3	Als2cr12
+uc007bdb.1	Als2cr11
+uc007bdc.1	Als2cr11
+uc007bdv.1	Gm973
+uc007bdw.1	
+uc007beu.1	Eif4a-ps4
+uc007bew.2	Cd28
+uc007bex.2	
+uc011wlz.3	
+uc057auq.1	
+uc007bgd.2	Adam23
+uc007bgg.2	Adam23
+uc007bgj.1	Mdh1b
+uc029qow.1	4933402D24Rik
+uc007bgm.2	
+uc007bhu.1	Pth2r
+uc007bhy.2	Map2
+uc007bhz.2	Map2
+uc007bih.2	Unc80
+uc007biy.2	Cps1
+uc007bjb.3	
+uc011wmq.1	Abca12
+uc011wmr.1	
+uc029qoz.1	
+uc007bkg.2	Mreg
+uc007bkk.1	Tmem169
+uc007bkn.1	March4
+uc007bld.2	
+uc007bll.1	Cxcr2
+uc007blq.1	Gpbar1
+uc007bly.2	Slc11a1
+uc007bne.1	Wnt6
+uc007bnf.3	
+uc007bng.2	Cdk5r2
+uc007bni.2	Cryba2
+uc007bnl.3	
+uc007bno.2	
+uc007box.2	Des
+uc007bpn.2	Obsl1
+uc007bpo.2	Obsl1
+uc007bpp.3	Obsl1
+uc007bps.1	Inha
+uc007bqm.2	Mogat1
+uc007bqq.2	
+uc011wnw.1	Ap1s3
+uc011wny.2	Dock10
+uc007bre.1	
+uc007brp.2	Irs1
+uc033fjy.2	
+uc007bsd.1	Tm4sf20
+uc057auz.1	
+uc007bsw.1	Dner
+uc007btd.1	Slc16a14
+uc007buu.2	Spata3
+uc007bvk.2	B3gnt7
+uc007bvn.3	Nmur1
+uc007bwa.2	Alpi
+uc011wop.2	
+uc007bxs.1	Sag
+uc007byr.1	Glrp1
+uc007byu.1	2410088K16Rik
+uc029qrm.1	
+uc007bzc.1	D130058E05Rik
+uc007bzg.2	Iqca
+uc011wpd.1	Prlh
+uc007bzx.2	Ramp1
+uc007cah.1	Espnl
+uc007cai.1	Klhl30
+uc007cbd.2	Twist2
+uc007cbr.1	Otos
+uc057ava.2	
+uc007cdw.2	
+uc029qsc.1	Gm9994
+uc007cfx.1	
+uc007cgc.1	Cdh20
+uc007chh.1	Serpinb3d
+uc007chx.1	Cdh19
+uc007cia.1	Cntnap5a
+uc007cil.1	Tfcp2l1
+uc007cim.1	Gli2
+uc007civ.1	
+uc011wqu.1	Gm101
+uc007cjl.1	Marco
+uc007ckh.3	
+uc029qtb.1	
+uc011wra.1	Map3k19
+uc007clm.2	Lct
+uc007cmb.2	Zp3r
+uc007cmc.1	C4bp
+uc007cmn.1	Faim3
+uc007cnm.1	Ctse
+uc007cns.1	Slc26a9
+uc007coi.2	
+uc007cph.1	
+uc007cpi.2	Lrrn2
+uc033fle.1	
+uc007cpw.2	
+uc007cpy.1	
+uc007cqf.2	
+uc057kgl.1	
+uc007crb.3	Optc
+uc007crd.1	Fmod
+uc007crn.2	
+uc007crt.2	4933406M09Rik
+uc007csq.1	Lgr6
+uc007csr.2	Ptprv
+uc007ctr.1	
+uc007ctt.1	Lad1
+uc011wst.1	Igfn1
+uc007cuo.2	5730559C18Rik
+uc007cup.1	
+uc011wsy.1	Gpr25
+uc057kgu.1	
+uc007cuy.1	Gm16880
+uc007cwd.1	Crb1
+uc007cwk.2	F13b
+uc007cxu.3	7530420F21Rik
+uc029qtz.1	
+uc007czm.2	
+uc007czw.2	E330020D12Rik
+uc007czx.1	Shcbp1l
+uc007dac.1	Npl
+uc029que.1	
+uc029quf.1	Rgsl1
+uc007dal.2	Rgsl1
+uc007dar.1	
+uc007das.1	
+uc029qug.1	Zfp648
+uc007dbi.2	Gm5532
+uc033fmn.1	Fam163a
+uc007dch.2	Nphs2
+uc057kgy.1	
+uc007ddv.1	Pappa2
+uc007dea.2	
+uc007dee.3	
+uc007dem.3	
+uc007dfj.2	Ankrd45
+uc007dfn.2	Tnfsf4
+uc007dfv.1	
+uc007dgm.2	Myoc
+uc007dgn.2	7420461P10Rik
+uc007dgv.1	Fmo4
+uc007dhd.1	
+uc007dhe.2	Fmo3
+uc007dhg.2	Mroh9
+uc007dir.2	
+uc007dje.1	Adcy10
+uc033fmt.1	
+uc057khf.1	
+uc007dkj.1	Gpa33
+uc007dkk.1	Mael
+uc057avu.1	Rgs5
+uc007dlm.2	Rgs5
+uc007dln.1	Rgs4
+uc007dmc.1	Sh2d1b1
+uc007dmd.1	1700015E13Rik
+uc007dmw.2	Fcgr4
+uc033fmz.1	
+uc007dna.1	1700009P17Rik
+uc007dnl.1	Fcer1g
+uc007dph.1	
+uc007dpj.2	Nhlh1
+uc011wwk.1	Atp1a4
+uc007dqj.1	Kcnj10
+uc007dql.2	Slamf9
+uc007dqu.1	Slamf8
+uc011wwq.1	Crp
+uc007dqz.2	Olfr16
+uc007drc.1	Olfr218
+uc011wwu.1	Pyhin1
+uc007drt.1	Pydc3
+uc007dru.4	
+uc007dsw.2	Spta1
+uc007dtd.2	Fmn2
+uc007dtf.1	Grem2
+uc056yfg.1	
+uc007dty.3	B020018G12Rik
+uc007duo.1	
+uc007dup.1	
+uc007dur.1	1700016C15Rik
+uc007duy.1	B230369F24Rik
+uc007dvh.2	Kif26b
+uc007dvi.1	
+uc007dwh.2	6330403A02Rik
+uc007dwp.2	
+uc007dxa.1	9130409I23Rik
+uc007dxj.1	
+uc007dxy.1	
+uc007dyk.1	Susd4
+uc007dyl.1	Tlr5
+uc029qvb.1	
+uc007dyp.2	Marc1
+uc007dzi.4	
+uc007dzj.1	Gm2061
+uc007dzs.1	D1Pas1
+uc007dzt.2	Spata17
+uc007dzu.1	1700007P06Rik
+uc007eaa.2	Esrrg
+uc007eaf.2	
+uc007eba.1	
+uc033fol.2	
+uc007ebw.2	1700022P22Rik
+uc007ecc.1	
+uc011wyr.1	Fam71a
+uc007edr.2	
+uc007eee.1	
+uc007eei.2	G0s2
+uc056yfv.1	Mir3962
+uc007eey.1	
+uc008idt.2	Acbd7
+uc008ifo.2	
+uc008iga.1	Dhtkd1
+uc057lbk.1	
+uc008igm.1	Gm13391
+uc008igz.2	1700061F12Rik
+uc008ihh.2	4930412O13Rik
+uc008ihq.2	Itih2
+uc008iia.1	Prkcq
+uc008iic.1	Prkcq
+uc029tvr.1	
+uc008iid.1	Gm13293
+uc008ikj.1	Tmem236
+uc012bra.1	Gm13315
+uc056zle.1	4930447M23Rik
+uc008inf.2	
+uc029tvw.2	
+uc008ink.1	Gad2
+uc008iof.2	4931423N10Rik
+uc008ipc.1	Gm13415
+uc008iqu.1	Gm757
+uc012bru.1	Rnf208
+uc008irw.2	Entpd2
+uc008isf.1	Ptgds
+uc008isg.1	Lcn12
+uc008ish.1	Lcn12
+uc008isq.1	
+uc008itf.1	Obp2a
+uc008ith.1	Obp2b
+uc008ium.1	4932418E24Rik
+uc008iut.1	Card9
+uc057bms.2	
+uc008ivz.1	5730588L14Rik
+uc008ixc.2	Fam163b
+uc008ixe.1	Dbh
+uc008iye.1	Ppp1r26
+uc008iyl.2	Gbgt1
+uc008iyr.3	
+uc008izb.1	1700026L06Rik
+uc008izd.1	Ak8
+uc012bte.1	1700101E01Rik
+uc057lci.1	
+uc057lcj.1	
+uc008jcq.1	Gm14488
+uc012btn.1	Mir3089
+uc008jcr.3	1700001O22Rik
+uc008jed.2	Qrfp
+uc008jee.2	Fibcd1
+uc008jfe.2	
+uc008jfw.1	Pip5kl1
+uc008jhy.2	Lmx1b
+uc008jhz.1	C130021I20Rik
+uc008jia.1	C130021I20Rik
+uc057lcl.1	
+uc057lcm.1	
+uc008jig.2	C230014O12Rik
+uc008jjn.3	
+uc012bum.1	4930568D16Rik
+uc008jlc.1	Morn5
+uc057lcq.1	
+uc008jma.1	Olfr351
+uc008jnl.2	Lhx2
+uc008joj.1	Gm13456
+uc008jok.1	
+uc012bvh.1	Gm13498
+uc008jqi.1	1700057H21Rik
+uc008jqp.1	Tnfaip6
+uc057lcv.1	
+uc008jrp.1	Rprm
+uc029txk.1	BB557941
+uc008jsf.1	Gm13532
+uc057lcy.1	
+uc008jsy.1	Ccdc148
+uc029txp.1	Gm13580
+uc029txr.1	Gm13582
+uc008jvd.2	
+uc008jvj.1	Gcg
+uc008jvk.2	Fap
+uc008jvl.1	Fap
+uc008jvq.1	Kcnh7
+uc008jwj.1	Slc38a11
+uc012bwa.1	Scn3a
+uc008jwu.2	Galnt3
+uc008jxm.3	B3galt1
+uc008jxr.1	4932414N04Rik
+uc008jyc.1	Lrp2
+uc008jyg.1	Klhl41
+uc008kaf.2	Cybrd1
+uc008kao.1	
+uc008kax.2	Dlx2
+uc008kay.1	Gm1631
+uc008kaz.1	Gm17250
+uc008kba.1	Gm13662
+uc008kby.1	6430710C18Rik
+uc008kcj.2	Sp9
+uc008kct.2	
+uc057ldk.1	
+uc008kdx.3	Hoxd10
+uc008kdz.1	Hoxd9
+uc008ked.2	1700109F18Rik
+uc008kef.2	
+uc008keg.1	Hoxd3
+uc033hnp.1	6720416L17Rik
+uc008key.2	Cyct
+uc008kfg.2	Dfnb59
+uc008kfn.1	Ttn
+uc008kfo.1	Ttn
+uc008kfz.4	
+uc008kgb.2	Gm13944
+uc008kgk.2	4930440I19Rik
+uc008kht.1	
+uc012byl.1	Gm13718
+uc008kjp.1	Prg2
+uc008kjz.1	4930443O20Rik
+uc008ktq.1	C1qtnf4
+uc008kuj.2	Spi1
+uc033hoe.2	
+uc008kvl.1	Gm17281
+uc008kwg.2	F2
+uc008kxg.1	
+uc008lag.2	Gm13815
+uc008lfa.2	
+uc008lfn.1	Syt13
+uc056znv.1	
+uc012caf.2	
+uc029udp.1	4930547E08Rik
+uc033hox.2	
+uc008ljp.1	A930018P22Rik
+uc029udr.1	4930500J02Rik
+uc008lkd.1	Pin1rt1
+uc008lll.2	
+uc056zof.1	
+uc008lmk.1	Bdnf
+uc012cav.1	Gm13939
+uc008lmw.2	Slc5a12
+uc012caw.2	Ano3
+uc008loq.1	Nutm1
+uc008lpp.2	Grem1
+uc008lpq.1	Scg5
+uc008lpz.3	
+uc008lqp.1	3110099E03Rik
+uc008lqq.1	Gm13977
+uc056zoj.1	
+uc008lra.2	
+uc033hpk.1	Rasgrp1
+uc056zol.1	Gm13985
+uc008lrs.2	Fsip1
+uc008lrt.1	A930104D05Rik
+uc008lsf.2	Pak6
+uc008lsh.1	Ankrd63
+uc008ltm.2	Rhov
+uc008luf.1	Itpka
+uc008lvh.1	Pla2g4d
+uc012ccl.2	
+uc008lyw.1	Strc
+uc012ccx.1	Duox2
+uc008mal.1	Duox2
+uc008map.1	Duox1
+uc033hpt.1	
+uc033hpu.1	
+uc033hpv.1	
+uc008mbb.1	4930417H01Rik
+uc008mbe.1	4930580A09Rik
+uc057ldy.1	
+uc008mff.1	Dusp2
+uc008mfi.1	Adra2b
+uc012cdp.1	Gm14244
+uc008mgg.3	
+uc033hqa.1	Gm355
+uc008mgy.1	Fbln7
+uc029ueo.1	AI847159
+uc057lec.1	
+uc008mhn.2	A730036I17Rik
+uc008mhq.1	Gm14023
+uc008mhx.1	F830045P16Rik
+uc008mig.2	Tgm3
+uc008mik.1	Tmc2
+uc008mir.2	Cpxm1
+uc008mit.1	Tmem239
+uc008mjg.3	
+uc008mjv.1	Slc4a11
+uc008mko.1	Siglec1
+uc008mkp.1	Siglec1
+uc008mlu.1	Adra1d
+uc008mlw.2	5330413P13Rik
+uc008mlx.2	Erv3
+uc012ces.1	AU019990
+uc008mnf.1	Chgb
+uc057boo.1	
+uc008mno.1	Fermt1
+uc008mnq.1	A430048G15Rik
+uc008moa.2	9630028H03Rik
+uc057lef.1	
+uc008mqa.1	4930511F01Rik
+uc008mqc.2	
+uc008mqf.3	
+uc008mqg.1	Gm12360
+uc008mqn.1	Banf2
+uc008mrb.2	Zfp133-ps
+uc008mrc.1	Zfp133-ps
+uc008msc.1	4930529M08Rik
+uc008msf.1	4930529M08Rik
+uc008msg.1	4930529M08Rik
+uc008msx.3	
+uc008mtj.1	Cstl1
+uc012cfp.1	Syndig1
+uc012cft.1	Gm14124
+uc008mub.1	Zfp345
+uc008muc.2	Cst7
+uc008muf.2	Acss1
+uc008mut.2	Ninl
+uc008muv.2	Nanp
+uc008ndv.1	4921509C19Rik
+uc008neh.1	BC052486
+uc008nej.1	Tmem74b
+uc008nep.1	Rspo4
+uc008neq.1	Angpt4
+uc008nfw.1	Rem1
+uc008nfx.2	
+uc008ngs.2	Mylk2
+uc008ngt.1	Foxs1
+uc012cgl.1	Dusp15
+uc008nha.1	Xkr7
+uc008nhc.3	Hck
+uc008nil.1	Efcab8
+uc008niu.2	Bpifa1
+uc008niy.2	Bpifb5
+uc008nja.2	
+uc008njh.1	Necab3
+uc008njj.2	
+uc012cgx.1	Actl10
+uc012chc.1	Ggt7
+uc012chg.2	
+uc012cho.1	Fer1l4
+uc012chx.1	Tldc2
+uc012cic.1	Vstm2l
+uc008nqi.1	Adig
+uc012cih.1	Arhgap40
+uc008nqv.1	Gm826
+uc008nrm.1	Gm14228
+uc008nsd.1	L3mbtl1
+uc008ntm.3	
+uc008nty.1	Wfdc15a
+uc008nub.2	Svs2
+uc008nun.3	Matn4
+uc008nvd.1	Gm14317
+uc008nve.1	Wfdc2
+uc008nvv.1	Wfdc3
+uc008nvz.2	
+uc008nwt.3	Mmp9
+uc012cjg.1	1700025C18Rik
+uc008nxp.1	Zfp663
+uc008nxr.1	Ocstamp
+uc008oag.1	A530013C23Rik
+uc008oah.3	A530013C23Rik
+uc008oan.1	Gm14236
+uc008oao.2	Pard6b
+uc008oat.1	Kcng1
+uc008obw.1	Gm17619
+uc008ocr.1	Cass4
+uc008ocy.2	Fam209
+uc012ckp.1	
+uc008odb.3	Bmp7
+uc008odr.1	Gm14454
+uc029uim.1	Gm10714
+uc008ofe.2	Tubb1
+uc008ofh.2	
+uc008ofj.2	Gm14393
+uc008ofl.1	Gm14443
+uc008ofn.3	
+uc029uiw.1	Gm14431
+uc008ohn.2	
+uc008ohv.3	Cdh4
+uc008oja.1	
+uc008ojb.1	
+uc008oki.1	Gm14341
+uc008okq.1	Chrna4
+uc008olh.1	Eef1a2
+uc008olm.1	BC051628
+uc008olt.1	Stmn3
+uc056zrc.1	
+uc008onh.1	4930526D03Rik
+uc029ujh.1	Oprl1
+uc008ooa.1	Zfhx4
+uc012cnd.1	
+uc008ope.3	
+uc008opr.1	Slc10a5
+uc008opz.1	
+uc008orl.2	Bhlhe22
+uc008orm.2	Cyp7b1
+uc056zro.1	
+uc033hsg.1	
+uc033hsh.1	
+uc008osp.2	Cpa3
+uc008osq.2	Cpb1
+uc029ukh.1	
+uc008oto.1	Ghsr
+uc008oua.3	
+uc057lfp.1	
+uc008oue.1	
+uc008ouh.1	Gm1527
+uc008ouw.1	Actrt3
+uc008ovb.1	Lrrc34
+uc008ovw.2	Cldn11
+uc008oyr.1	
+uc008ozh.1	Qrfpr
+uc029ulj.1	Gm11548
+uc008ozk.2	Gm11549
+uc008pah.1	Adad1
+uc008pai.4	
+uc008pap.2	Fgf2
+uc008pba.1	
+uc008pbi.2	Slc25a31
+uc008pcf.1	
+uc008pcg.1	
+uc008pcx.2	2610316D01Rik
+uc008pcy.1	Pcdh10
+uc008pcz.1	Pcdh10
+uc029ulv.1	
+uc008pdk.1	
+uc033hth.1	
+uc008peh.1	
+uc008pej.1	
+uc008pek.3	
+uc029umb.1	
+uc008pew.1	Stoml3
+uc008pey.1	Frem2
+uc008pfv.2	Smad9
+uc008pgn.2	Dclk1
+uc008pha.3	
+uc008phc.1	Gm26671
+uc008phy.1	Fam194a
+uc008phz.1	Fam194a
+uc012cpw.1	
+uc008piu.2	Igsf10
+uc008pji.2	
+uc008pjo.1	Gpr149
+uc008pka.1	Plch1
+uc008pkf.1	Vmn2r1
+uc008pki.1	
+uc008pkj.2	Kcnab1
+uc008pkk.2	
+uc008pkm.1	A730090N16Rik
+uc008pkz.3	Veph1
+uc008pla.1	Ptx3
+uc008plb.2	Veph1
+uc008pmf.2	
+uc012cqm.1	Arl14
+uc029umq.1	
+uc029umu.1	
+uc008pnv.1	Rxfp1
+uc008poo.2	
+uc008pou.2	Gucy1a3
+uc008ppl.2	Sfrp2
+uc008ppm.1	Gm26771
+uc008ppv.2	Mnd1
+uc008pqy.1	Sh3d19
+uc008pqz.1	Prss48
+uc008prd.1	
+uc008psf.1	
+uc008ptk.1	Crabp2
+uc008pto.2	Bcan
+uc008ptp.2	
+uc008ptq.2	Hapln2
+uc008puy.2	Bglap
+uc008pvn.1	Rab25
+uc008pwc.1	Rxfp4
+uc008pxr.1	Hcn3
+uc008pyg.2	Thbs3
+uc012cso.1	Kcnn3
+uc012cta.1	S100a2
+uc008qdd.1	S100a8
+uc008qdh.1	9130204L05Rik
+uc008qdr.1	Sprr2b
+uc008qea.1	Sprr2k
+uc008qed.1	Sprr1a
+uc008qej.1	Lce1b
+uc012cti.1	Tchh
+uc008qgc.1	1700040D17Rik
+uc008qgk.1	Riiad1
+uc008qgv.2	
+uc008qgw.1	BC021767
+uc008qgx.1	Selenbp2
+uc057lfz.1	
+uc012cts.2	Sema6c
+uc008qiw.1	Gm128
+uc008qix.2	Bnipl
+uc008qji.3	Gm10691
+uc057bqj.1	
+uc008qlw.1	
+uc008qmf.2	
+uc008qmn.3	Hist2h4
+uc008qmo.2	Hist2h3b
+uc008qmp.1	Hist2h2bb
+uc008qmx.1	Gm26689
+uc033hxv.1	
+uc033hyg.1	
+uc008qna.2	Hfe2
+uc008qng.1	Ankrd34a
+uc008qon.2	Gja8
+uc033hyl.1	
+uc008qou.1	Gm17608
+uc033hym.1	
+uc008qpm.1	Gm5544
+uc008qpq.1	Reg4
+uc008qqb.1	Hsd3b5
+uc012cuq.1	Hsd3b6
+uc008qql.1	Tbx15
+uc012cuu.1	Cd101
+uc008qrf.1	Cd2
+uc008qrk.2	Mab21l3
+uc008qru.1	
+uc008qtt.1	Bcl2l15
+uc029uoa.1	4930564D02Rik
+uc008qvk.1	I830077J02Rik
+uc008qvv.2	
+uc008qvw.2	Chi3l3
+uc008qvx.2	Chi3l4
+uc008qvy.1	BC051070
+uc008qwm.2	Cd53
+uc008qwp.2	Kcna3
+uc008qwq.2	AI504432
+uc012cvu.1	Cym
+uc029uoc.1	A630076J17Rik
+uc008qwv.1	Prok1
+uc012cvv.1	
+uc008qxe.1	Ubl4b
+uc008qxf.2	Alx3
+uc057bqs.1	
+uc008qxv.2	Gstm3
+uc012cwb.2	Gnat2
+uc008qyt.1	Mybphl
+uc008qyu.1	Gm12522
+uc008qze.2	1700013F07Rik
+uc008rad.2	Slc25a54
+uc008ras.1	Ntng1
+uc008rbz.2	Gpr88
+uc029uok.1	1700061I17Rik
+uc008rdh.1	Dpyd
+uc008rdo.3	
+uc008rdr.2	Rwdd3
+uc008rdz.2	Slc44a3
+uc008reb.3	A730020M07Rik
+uc008rec.2	A730020M07Rik
+uc033hzj.1	
+uc012cwz.1	Mir760
+uc029uom.1	4933405D12Rik
+uc008rfe.2	Myoz2
+uc008rff.2	Myoz2
+uc056zuf.1	
+uc008rgc.1	Arsj
+uc008rhy.1	Enpep
+uc008rih.3	Egf
+uc008rii.1	Egf
+uc033hzp.1	
+uc012cxr.1	Rrh
+uc008rin.1	Cfi
+uc008rjv.1	
+uc008rjw.2	Dkk2
+uc008rkk.1	Arhgef38
+uc008rku.1	
+uc008rkw.3	
+uc008rky.2	Tacr3
+uc008rnd.2	Adh7
+uc008rnh.1	Adh6b
+uc008rnj.1	Adh4
+uc008rno.1	
+uc057bre.1	
+uc012cyz.3	
+uc008rqv.2	Syde2
+uc008rqw.2	Wdr63
+uc008rra.2	Lpar3
+uc012czf.1	
+uc008rrp.1	Uox
+uc029upa.1	Gm16325
+uc008rsd.1	
+uc008rse.1	
+uc008rsg.1	
+uc008rtu.2	
+uc008rtv.1	
+uc008rty.1	Asb17
+uc008rua.2	
+uc033iaf.1	
+uc008rue.2	Msh4
+uc008rum.2	
+uc008run.1	AI606473
+uc008rur.1	4922501L14Rik
+uc008rvc.2	Negr1
+uc008rvd.1	
+uc056zuy.1	
+uc008rwg.1	Vmn1r3
+uc057lhb.1	
+uc057lhc.1	
+uc008rwo.1	Mos
+uc008rwv.1	
+uc008rwx.1	Sdr16c5
+uc008rxs.2	Tox
+uc008rxt.1	Tox
+uc008rxu.1	Tox
+uc057brg.1	
+uc008rxv.1	Car8
+uc008ryr.2	
+uc008ryq.1	4930412C18Rik
+uc008ryt.1	Gdf6
+uc033iam.1	
+uc008rzy.2	Cdh17
+uc056zvc.1	
+uc029upr.1	Gm11837
+uc008sbi.2	Necab1
+uc057brk.1	
+uc008sch.2	Atp6v0d2
+uc057lhg.1	
+uc008sfn.1	
+uc012dbj.3	
+uc008sft.1	Srsf12
+uc008sfz.1	Spaca1
+uc008sgk.1	Gm136
+uc008sgq.1	Cga
+uc008shl.1	
+uc008shx.1	
+uc008shy.1	Spink4
+uc008sih.1	Aqp3
+uc008sjz.1	Gm12407
+uc008ska.1	
+uc029uqo.1	
+uc008ski.2	
+uc029uqs.1	
+uc029usi.1	Gm3883
+uc008snh.1	Gm13298
+uc029uty.2	Gm12429
+uc008soj.1	N28178
+uc008sol.1	
+uc008soq.2	1700022I11Rik
+uc008spj.1	Atp8b5
+uc012dcz.1	Atp8b5
+uc012dde.1	Olfr70
+uc008sqw.1	Olfr71
+uc008sra.1	Olfr159
+uc008src.1	Olfr157
+uc008srg.1	Ccin
+uc029utz.1	Gm12504
+uc029uua.1	Mir5106
+uc008ssi.1	Frmpd1
+uc008ssx.1	Aldh1b1
+uc008ssy.1	Igfbpl1
+uc008suk.1	Galnt12
+uc012ddz.1	Murc
+uc008svr.2	Acnat1
+uc008svt.2	Baat
+uc008svw.2	Aldob
+uc033ica.1	Grin3a
+uc008swi.2	2700081L22Rik
+uc008swv.1	4930412L05Rik
+uc008sxg.1	Tal2
+uc008sxl.1	Gm12511
+uc008sxn.1	Actl7b
+uc008sxo.2	Actl7a
+uc008sya.2	Ptpn3
+uc008syo.1	D630039A03Rik
+uc008syr.1	Svep1
+uc008syt.1	Svep1
+uc008szl.1	Zkscan16
+uc008szq.1	AI481877
+uc033icl.1	Gm12596
+uc008taf.2	Slc46a2
+uc008tex.1	Bspry
+uc008tfm.2	Zfp618
+uc008tfn.2	Zfp618
+uc008tfo.2	
+uc008tgf.1	Whrn
+uc057liq.1	
+uc008tgp.2	Whrn
+uc033icr.1	Whrn
+uc008thc.2	Tnfsf15
+uc008thd.1	Tnfsf8
+uc008thw.1	Brinp1
+uc008thx.1	Brinp1
+uc008tin.1	Aldoart1
+uc008tjg.2	Frmd3
+uc029uwo.1	Gm11413
+uc008tlj.1	Bnc2
+uc008tlo.2	
+uc009vcq.2	Adamtsl1
+uc008tmz.1	Ifnb1
+uc008tni.1	Ifna2
+uc008tnl.1	Gm13271
+uc029uwt.1	
+uc057lix.1	
+uc008tnp.1	Ifnz
+uc008tnr.2	Gm13283
+uc008tnt.2	Gm13275
+uc012dgw.1	Gm13287
+uc008tnw.2	Gm13288
+uc012dgy.1	
+uc057liz.1	
+uc008tog.1	Gm12606
+uc008tor.2	Elavl2
+uc008tos.1	Gm12671
+uc008tsm.2	Eqtn
+uc008tsr.1	BC042782
+uc057ljf.1	
+uc008tss.1	BC042782
+uc057ljg.1	
+uc008tsu.1	Gm830
+uc008ttb.1	Hook1
+uc008ttc.2	
+uc057brz.1	
+uc029uyc.1	
+uc009vcs.1	Cyp2j8
+uc008ttz.1	0610025J13Rik
+uc008twf.1	Gm12794
+uc008txs.1	Gm12715
+uc008txt.2	
+uc008tyi.2	Pcsk9
+uc008tyj.2	
+uc008tyk.1	Tmem61
+uc012dhz.1	BC055111
+uc008tyn.1	Ttc22
+uc008tzk.1	Ldlrad1
+uc008tzq.2	
+uc008tzy.2	Dmrtb1
+uc008uaa.1	4933424M12Rik
+uc033idk.1	Podn
+uc008uav.2	Zyg11a
+uc008ubb.2	Fam159a
+uc033idq.2	Gm12750
+uc008uci.2	Ttc39a
+uc008uck.2	Ttc39a
+uc008ucu.1	3010003L10Rik
+uc008ucv.1	Dmrta2
+uc012diw.1	Gm12830
+uc012dix.1	Foxd2
+uc056zwz.1	
+uc008uev.2	Cyp4a14
+uc029uyw.1	
+uc008ufs.2	Faah
+uc008ugk.1	Tspan1
+uc008ugl.2	1700042G07Rik
+uc057ljw.1	
+uc008uho.1	Hpdl
+uc008uhp.1	Gm12996
+uc008uhq.1	Zswim5
+uc008uig.2	Gm1661
+uc012dkb.1	Tmem125
+uc008uku.1	Olfr1338
+uc008uky.1	Olfr1331
+uc008ukz.1	Olfr1330
+uc008ulc.1	Gm12863
+uc057bsn.1	Gm12866
+uc008ulm.1	4930538K18Rik
+uc008umn.2	Zmynd12
+uc008umo.4	
+uc008unc.1	Foxo6
+uc008unh.1	Slfnl1
+uc012dkk.2	
+uc008unk.1	Gm12860
+uc008unl.1	Cited4
+uc008unq.1	Rims3
+uc008unx.2	Col9a2
+uc008uox.1	Hpcal4
+uc008uoy.1	Nt5c1a
+uc008uoz.1	Heyl
+uc008uph.3	Oxct2a
+uc008upz.1	
+uc008uqa.2	
+uc029uzc.1	
+uc008uqe.2	
+uc008uqh.2	
+uc008uqi.2	
+uc008uqj.1	
+uc029uzh.1	Pou3f1
+uc008uri.2	Epha10
+uc008urn.1	Rspo1
+uc008usa.2	Grik3
+uc033iei.1	Mir692-2a
+uc008utd.1	Col8a2
+uc008uuu.1	Gjb4
+uc008uuv.1	Gjb5
+uc012dln.1	CK137956
+uc008uuy.1	Csmd2
+uc033ies.1	Csmd2
+uc008uvf.1	Tlr12
+uc056zxe.1	
+uc008uvv.1	1700086P04Rik
+uc033ieu.1	Hpca
+uc008uwe.1	Fndc5
+uc008uwp.2	
+uc008uwx.1	
+uc008uxa.1	
+uc056zxh.1	
+uc008uzx.2	Matn1
+uc008vap.1	Oprd1
+uc012dmd.1	Rps15a-ps4
+uc008vaw.1	Rnu11
+uc008vbn.3	
+uc008vbv.1	Themis2
+uc012dmj.2	
+uc008vci.1	Gpr3
+uc008vcj.1	Cd164l2
+uc008vdw.1	Lin28a
+uc008veb.2	Ubxn11
+uc008vei.1	Cnksr1
+uc029uzx.1	1700021N21Rik
+uc008vfu.1	Rhd
+uc056zxv.1	
+uc008vgp.1	Stpg1
+uc008vgr.1	Grhl3
+uc008vgw.3	
+uc008vhh.3	Cnr2
+uc008vhq.1	Rpl11
+uc008vhv.2	Tcea3
+uc008vir.1	C1qa
+uc008vis.1	Epha8
+uc008viv.2	Wnt4
+uc008vjb.1	1700013G24Rik
+uc008vjp.2	
+uc008vkx.2	Fam43b
+uc008vlj.2	Pla2g5
+uc057lkp.1	
+uc008vlr.1	Htr6
+uc012dnp.1	Gm16287
+uc008vmu.2	Igsf21
+uc008vmz.1	Gm13025
+uc029vaf.1	Gm13032
+uc008vni.2	Padi2
+uc008vnv.1	Spata21
+uc008vob.1	Arhgef19
+uc008vod.2	Fam131c
+uc008vov.1	AI507597
+uc008vow.1	Tmem82
+uc008vox.2	
+uc008vpe.1	Agmat
+uc012dog.2	Fhad1
+uc012doy.1	Gm13238
+uc029vap.4	
+uc008vsj.1	Gm13034
+uc008vso.1	Gm13150
+uc012dpe.2	Zfp534
+uc008vua.2	Draxin
+uc008vuk.1	Fbxo2
+uc008vvs.2	Cort
+uc008vwh.2	
+uc008vxk.1	Slc2a5
+uc008vxl.1	Slc2a7
+uc008vxu.1	Slc45a1
+uc008vyd.1	Uts2
+uc008vza.2	Tas1r1
+uc008vzb.2	Tas1r1
+uc008wac.1	Hes3
+uc012dql.1	Ttc34
+uc008wck.1	Hes5
+uc008wdf.2	Gabrd
+uc008wdg.2	5830444B04Rik
+uc008wdi.2	5830444B04Rik
+uc008wdj.2	2010015L04Rik
+uc008wdk.2	2010015L04Rik
+uc008wdl.1	2010015L04Rik
+uc008wdm.1	C030017K20Rik
+uc008wdn.1	C030017K20Rik
+uc012dqx.1	2610204G22Rik
+uc008wep.1	2610204G22Rik
+uc008wet.1	Ankrd65
+uc057bta.2	
+uc057llk.1	
+uc012dsg.1	Speer3
+uc008wnc.1	Cacna2d1
+uc008wne.3	Hgf
+uc008wok.2	Ccdc146
+uc008wom.2	Fgl2
+uc008wpp.1	Reln
+uc008wrb.1	Kcnh2
+uc008wrc.1	Kcnh2
+uc008wrj.1	Asic3
+uc008wrx.1	Gbx1
+uc008wsh.1	Wdr86
+uc008wsz.1	Cct8l1
+uc033ihz.1	Gm21671
+uc008wte.1	Speer4a
+uc012dtn.1	Gm10471
+uc012dto.1	Gm10220
+uc033iic.1	Gm7361
+uc057llp.1	
+uc008wtv.1	En2
+uc008wua.2	Shh
+uc057llq.1	
+uc033iig.1	Gm6083
+uc008wut.1	
+uc008wuv.2	Il6
+uc008wuz.3	
+uc029vgt.1	
+uc057llr.1	
+uc008wvq.2	
+uc008wvr.1	Kcnk3
+uc033iil.1	
+uc008wxa.3	
+uc008wxd.2	Trim54
+uc008wyf.1	Gckr
+uc008wyh.1	4930548H24Rik
+uc008wzn.1	Plb1
+uc008xah.2	Slc5a1
+uc056zzg.1	Nkx1-1
+uc008xbs.1	Nat8l
+uc008xca.1	Zfyve28
+uc057lly.1	
+uc008xdt.1	Cpz
+uc008xeo.3	
+uc008xfe.1	Ppp2r2c
+uc029vhf.1	4933401P06Rik
+uc008xft.2	Stk32b
+uc008xgv.2	Clnk
+uc057lma.1	
+uc008xgx.2	
+uc033ijk.1	4930431F12Rik
+uc008xja.2	Fam184b
+uc033ijm.1	
+uc033ijn.1	
+uc056zzs.1	
+uc008xkm.2	Lgi2
+uc008xlc.1	Sel1l3
+uc012dwj.1	Gm17384
+uc008xmf.3	
+uc029vie.1	
+uc057lme.1	
+uc008xnn.1	Klb
+uc008xoo.3	Rbm47
+uc057aaa.1	
+uc008xos.2	Nsun7
+uc012dws.1	Bend4
+uc008xpy.2	Shisa3
+uc008xqj.1	Kctd8
+uc008xqk.2	Yipf7
+uc008xrb.1	Gabrb1
+uc008xrq.1	Gm5868
+uc008xrr.2	
+uc008xrz.2	Txk
+uc057aae.1	
+uc008xsk.1	Slc10a4
+uc008xtf.1	
+uc029vir.1	Gm6116
+uc008xue.1	Pdgfra
+uc008xww.1	Epha5
+uc008xxv.1	Tmprss11e
+uc008xzd.1	Odam
+uc008xzt.2	Enam
+uc008xzu.2	Igj
+uc008yaz.3	Alb
+uc008yba.2	Afp
+uc008ybg.2	Cxcl5
+uc008ybh.3	
+uc008ybi.2	Pf4
+uc008ybj.2	Cxcl3
+uc008ybk.1	Cxcl15
+uc008ybt.2	Areg
+uc008ybw.2	
+uc012dyn.1	U90926
+uc008ycv.2	Cxcl9
+uc008yfk.1	Fras1
+uc057aas.1	
+uc008ygb.1	Prdm8
+uc012dzn.1	
+uc008ygn.2	A930011G23Rik
+uc008yht.1	Plac8
+uc008yhw.1	Hpse
+uc008yim.2	
+uc008yin.1	
+uc008yio.1	Cds1
+uc029vjy.1	
+uc057buv.1	
+uc008yke.1	Dmp1
+uc008ykf.1	
+uc008ykt.1	Abcg3
+uc012eae.1	Abcg3
+uc008yld.1	
+uc008yli.1	Lrrc8d
+uc008ylm.1	Barhl2
+uc008ylo.2	
+uc012eai.1	Hfm1
+uc008yme.2	
+uc008ymy.1	A430072P03Rik
+uc008ynw.3	
+uc008ynx.3	
+uc008yny.1	Gm10419
+uc008yoc.1	Mfsd7a
+uc008yof.2	Cplx1
+uc009vdi.1	Vmn2r11
+uc008ypj.1	4930522L14Rik
+uc008ypm.1	1010001B22Rik
+uc008ysd.1	
+uc008ysh.1	C130026L21Rik
+uc008yth.2	Asphd2
+uc012ebj.1	Gm6588
+uc008ytr.2	Myo18b
+uc008ytx.2	Crybb2
+uc008yub.1	Tmem211
+uc057lnh.1	
+uc008yys.2	Selplg
+uc008yzb.1	Svop
+uc008yzk.1	Foxn4
+uc008yzt.1	Fam222a
+uc008zaj.2	
+uc029vms.1	
+uc008zam.1	
+uc008zan.2	
+uc008zas.2	
+uc008zat.2	
+uc029vmu.1	
+uc029vni.1	
+uc057lnp.1	
+uc057bvf.1	Gm13830
+uc008zex.1	C330018A13Rik
+uc033ilo.2	
+uc008zfa.2	2410137F16Rik
+uc008zfm.1	BC051077
+uc008zgt.1	Gm2301
+uc029vny.1	Gm16063
+uc029vnz.1	Gm16065
+uc012ecn.1	Lhx5
+uc008zhz.1	Oas3
+uc008zih.2	
+uc008zlk.1	
+uc008zmw.3	
+uc008znl.1	Wdr66
+uc008znm.1	Wdr66
+uc008znn.2	Bcl7a
+uc008zno.2	Bcl7a
+uc008zop.3	Niacr1
+uc008zqt.1	Fam101a
+uc033imk.1	
+uc012eds.1	Tmem132b
+uc008zry.2	Tmem132c
+uc008zse.1	Tmem132d
+uc008zsh.1	Fzd10
+uc008zsz.1	Rps2-ps13
+uc008zuq.1	Wbscr17
+uc057loa.1	
+uc008zwk.2	Syna
+uc008zwx.2	Wbscr28
+uc008zwy.2	Cldn13
+uc008zxe.2	Cldn3
+uc008zxf.1	Wbscr25
+uc008zxr.2	Vps37d
+uc008zzl.1	Zp3
+uc057bvr.1	
+uc033imy.1	mmu-mir-8116
+uc012eey.1	Zan
+uc009acl.1	Zan
+uc009aed.1	
+uc009aee.1	Pilrb2
+uc009aef.2	Cyp3a13
+uc009aeg.1	Gjc3
+uc012efm.1	Stag3
+uc009ahi.3	
+uc009aix.2	
+uc029vqa.1	4930448H16Rik
+uc029vqf.1	Ocm
+uc012egq.1	Nptx2
+uc009als.1	Tmem130
+uc009amv.2	Cyp3a16
+uc057lom.1	
+uc012egy.2	
+uc009ana.1	1700001J03Rik
+uc009anf.1	Wasf3
+uc009anx.1	2210019I11Rik
+uc009aoc.1	
+uc012ehd.1	2210417A02Rik
+uc009aox.1	1810059H22Rik
+uc009aoy.1	1810059H22Rik
+uc029vqu.1	Gm15411
+uc009apa.2	Gm15408
+uc033iny.1	
+uc009apt.1	Medag
+uc009apv.1	Wdr95
+uc012ehl.1	
+uc012ehm.1	Zar1l
+uc009aup.1	
+uc029vsn.1	1700028E10Rik
+uc009auq.2	1700028E10Rik
+uc009aur.3	
+uc009vdq.1	Vmn2r18
+uc009auw.1	
+uc009auz.1	Hepacam2
+uc009awb.1	Ppp1r9a
+uc009awd.2	Pon1
+uc029vtj.2	
+uc009ayl.3	
+uc009ayy.1	Foxp2
+uc009bah.2	Asz1
+uc009baw.2	Wnt16
+uc009bax.2	Wnt16
+uc009bbc.2	Aass
+uc009bbr.2	Iqub
+uc009bbt.2	Asb15
+uc009bbu.1	Lmod2
+uc009bbw.1	Hyal6
+uc009bbx.1	Hyal4
+uc009bcc.1	Tmem229a
+uc009bcd.2	Gpr37
+uc009bch.1	
+uc009bcr.1	Fscn3
+uc009bde.2	
+uc057acn.2	
+uc009bfg.1	1700012C14Rik
+uc009bfn.1	Cpa2
+uc009bfo.1	Cpa4
+uc009bfq.2	Cpa1
+uc057bwi.1	
+uc012ejq.1	Mir29a
+uc057acp.1	
+uc009bgi.1	Gm13848
+uc009bgu.1	Lrguk
+uc009bgv.1	Lrguk
+uc012ejv.2	
+uc057lpm.1	
+uc009bip.2	Slc13a4
+uc009bir.1	Fam180a
+uc057lpr.1	
+uc009bjg.2	Akr1d1
+uc009bjh.2	
+uc009bjm.1	Svopl
+uc029vuf.1	Clec2l
+uc009blp.2	
+uc009bmj.1	Tmem178b
+uc009bmq.2	Wee2
+uc009bmy.1	Olfr461
+uc009bno.1	2210010C04Rik
+uc009bqp.1	Tmem139
+uc009brf.1	Tas2r143
+uc009brg.1	Tas2r135
+uc009brk.2	Olfr456
+uc009brl.2	Olfr455
+uc012eky.1	
+uc009bsp.1	Nobox
+uc057lpw.1	
+uc057lpx.1	
+uc009btg.1	Zfp786
+uc057acz.1	
+uc029vvf.1	Sspo
+uc057ada.1	1700026J14Rik
+uc012elo.1	Gpnmb
+uc009bws.2	Stk31
+uc029vvj.1	
+uc033irt.1	
+uc009bxk.1	Nfe2l3
+uc009bxl.1	Nfe2l3
+uc057lqd.1	
+uc057bxc.1	Gm8078
+uc057bxe.1	Gm15051
+uc009byc.2	
+uc009byh.1	Hoxa5
+uc057bxh.1	
+uc009ccq.1	Vmn1r21
+uc009cdk.1	Gprin3
+uc009cdz.1	Grid2
+uc009cee.2	Hpgds
+uc009cef.2	C130060K24Rik
+uc009ceh.1	Tnip3
+uc009cep.1	Vmn1r32
+uc009cfg.1	A430010J10Rik
+uc057lqn.1	
+uc009cgp.1	Cd8b1
+uc009cgq.1	
+uc009cie.3	Sftpb
+uc009cir.1	Sh2d6
+uc009cjp.1	
+uc009cjy.1	Reg3a
+uc009ckl.2	
+uc009cll.3	
+uc009clp.2	M1ap
+uc012enx.1	Slc4a5
+uc009cob.1	Vax2
+uc033isu.1	
+uc009cod.1	Ankrd53
+uc057lqq.1	
+uc009cox.1	
+uc009cpe.1	Gm5878
+uc029vwz.1	Spr-ps1
+uc009cqe.1	Alms1-ps2
+uc009cqi.1	Cml2
+uc009cqq.2	
+uc009cqv.1	
+uc029vxc.1	
+uc009cqy.2	
+uc009cra.1	
+uc029vxd.1	
+uc009csa.1	
+uc009csb.1	
+uc009csf.2	
+uc009cth.1	Gkn1
+uc009ctj.1	Gkn3
+uc009cts.1	E230015B07Rik
+uc009ctt.1	1810020O05Rik
+uc009ctu.1	Efcc1
+uc012eoo.2	
+uc009ctv.1	Gp9
+uc029vxk.1	
+uc029vxl.1	
+uc009cuo.2	
+uc009cuq.1	
+uc029vxm.1	
+uc009cur.1	
+uc009cus.2	
+uc009cve.1	Dnajb8
+uc009cvl.2	Kbtbd12
+uc029vxo.1	Gm15612
+uc009cvv.1	
+uc009cvw.2	
+uc009cwf.1	
+uc009cwn.2	Vmn1r43
+uc009cwy.2	Vmn1r53
+uc009cxu.2	Nup210
+uc009cxv.1	Hdac11
+uc009cxz.1	Wnt7a
+uc029vxr.1	4930471M09Rik
+uc009cyf.1	
+uc012epd.3	
+uc009cyl.1	4930590J08Rik
+uc009cyw.2	Trh
+uc009czv.1	
+uc057lqw.1	
+uc009dah.1	Fam19a4
+uc009das.1	Lmod3
+uc009dca.1	Gxylt2
+uc009dcv.2	Cntn4
+uc009ddd.2	Lrrn1
+uc009ddz.1	Ssu2
+uc009dev.1	Lhfpl4
+uc033itx.1	Cpne9
+uc009dhr.1	Atp2b2
+uc009dhs.1	Slc6a11
+uc009dhv.2	Slc6a1
+uc009dhx.2	Hrh1
+uc012eqr.1	Efcab12
+uc009djk.1	Rho
+uc012eqt.2	H1foo
+uc009djr.1	
+uc009dkc.1	Alox5
+uc009dkd.1	Alox5
+uc009dkf.1	Olfr212
+uc009dki.1	Olfr215
+uc009dkv.1	
+uc012erq.2	
+uc009dnk.1	Cecr6
+uc009dof.2	Tuba8
+uc009don.3	
+uc009dph.1	Gm8430
+uc009dps.1	C3ar1
+uc009dpu.2	Clec4a1
+uc009dqv.1	
+uc009dqw.3	
+uc009dqy.2	C1rl
+uc009dre.1	Gm5077
+uc012esn.1	Mir200c
+uc009drm.1	Gm20531
+uc009drs.2	Eno2
+uc009drv.2	Lrrc23
+uc009dsi.1	Cd4
+uc009dsl.2	Lag3
+uc009dsv.4	
+uc009duf.1	
+uc009duh.1	
+uc009dui.1	Tuba3a
+uc009dvb.1	Kcna1
+uc009dvf.2	Akap3
+uc009dvg.1	Dyrk4
+uc009dvh.1	Dyrk4
+uc009dvp.2	Fgf23
+uc009dwa.1	Efcab4b
+uc009dwc.2	
+uc009ecn.1	Tspan11
+uc009ecs.2	
+uc009ecu.1	
+uc029wbc.1	
+uc029wbd.1	
+uc009ecw.1	
+uc009ecx.2	
+uc029wbf.1	
+uc009ecy.2	
+uc009ecz.1	
+uc009eda.1	
+uc012esz.1	Gm10010
+uc009edc.2	
+uc009edd.2	
+uc009edn.2	Nrip2
+uc009eek.2	Clec2h
+uc009eet.1	BC035044
+uc009eex.2	Gm15987
+uc029wbn.1	Clec2f
+uc009efd.2	Clec2e
+uc033ivf.1	Klrb1-ps1
+uc009egq.1	Klri1
+uc009egx.3	
+uc012eua.1	Klra2
+uc009eir.1	Styk1
+uc012eub.1	Styk1
+uc029wcf.1	
+uc009elq.2	
+uc009elz.2	Plbd1
+uc009ema.2	Plbd1
+uc009emd.3	Hist4h4
+uc009emk.1	Art4
+uc009emm.1	Erp27
+uc009emn.1	Erp27
+uc009eoo.1	Pde3a
+uc057afe.1	
+uc009eoq.1	Slco1b2
+uc009eou.1	Gm6614
+uc033ivv.1	B230216G23Rik
+uc009epq.1	
+uc009epv.1	St8sia1
+uc009eqd.1	
+uc009eqh.2	D6Ertd474e
+uc009eqn.1	Sox5
+uc009eqx.2	Lrmp
+uc009eqy.2	Lrmp
+uc009erb.1	Casc1
+uc012evn.1	Casc1
+uc009erd.1	Gm15543
+uc057lsp.1	
+uc009erk.1	Ifltd1
+uc009ero.1	Ifltd1
+uc029wct.1	4930479D17Rik
+uc009est.1	Mansc4
+uc029wcx.1	Gm21814
+uc009eul.2	Nlrp12
+uc029wda.3	Cacng8
+uc009eux.3	
+uc009exf.2	Lilra5
+uc009exy.1	Syt5
+uc009exz.1	Ptprh
+uc057afq.1	Il11
+uc009eza.1	Ssc5d
+uc009ezb.1	Gm1078
+uc009faa.2	Rfpl4
+uc009fac.1	Rasl2-9
+uc009fan.2	Nlrp4c
+uc033iwm.1	Gm6792
+uc029wdk.1	
+uc009fbk.1	Smim17
+uc012exl.1	Zim1
+uc009fcd.1	
+uc009fce.1	
+uc012eye.1	Vmn2r40
+uc009feq.1	2310014L17Rik
+uc009fey.3	Slc27a5
+uc009ffu.1	Cabp5
+uc009fhy.2	Ceacam15
+uc009fij.1	Dact3
+uc009fik.1	Gng8
+uc009fim.2	Ptgir
+uc009fio.2	Pnmal2
+uc009fjo.1	Psg23
+uc012far.1	
+uc009fjr.2	Psg19
+uc009fjz.1	Nanos2
+uc009fks.1	Gm4969
+uc009fkw.1	Gipr
+uc009flg.1	Ppm1n
+uc033iwx.1	
+uc009fme.2	Nkpd1
+uc009fnh.2	Cblc
+uc009fnl.2	Gm19345
+uc009fnm.1	Ceacam16
+uc009fnn.1	Ceacam19
+uc009fod.2	Nlrp4e
+uc009foy.1	Zfp114
+uc009fpi.2	Tescl
+uc009fps.1	Cadm4
+uc009fpw.1	Pinlyp
+uc009fqc.1	Phldb3
+uc009fqj.1	BC049730
+uc009fqm.3	
+uc009fqp.2	Dmrtc2
+uc009frm.1	Pou2f2
+uc009fsh.1	Prr19
+uc009fsi.1	Tmem145
+uc009ftk.3	
+uc009ftm.2	Tmem91
+uc057agm.1	
+uc009ftn.2	Tmem91
+uc009fur.1	Cyp2b23
+uc009fvf.2	Mia
+uc009fwc.1	Sptbn4
+uc057ltk.1	
+uc009fwu.1	Ttc9b
+uc009fxc.2	
+uc009fyd.1	BC089491
+uc009fyy.1	Gmfg
+uc012fgu.1	
+uc009fzg.2	Nccrp1
+uc009gae.1	Lgals7
+uc009gal.2	
+uc009gam.2	
+uc009gao.1	Ryr1
+uc012fhe.1	Catsperg1
+uc009gbe.1	Catsperg1
+uc009gbx.1	4930432E11Rik
+uc012fhg.1	Catsperg2
+uc009gci.1	
+uc057lts.1	
+uc009gec.1	Syne4
+uc009ghf.2	
+uc009gih.1	
+uc009gir.1	Scgb1b30
+uc033iyv.1	
+uc009gjy.2	Slc7a9
+uc009gkb.3	
+uc029wew.1	
+uc009gkk.1	Zfp536
+uc009glh.1	Vstm2b
+uc009glo.1	Gm17102
+uc009vek.1	Vmn2r57
+uc009gmf.2	Gm2381
+uc009gmo.1	Siglecg
+uc009gms.1	Cldnd2
+uc009gmv.2	Iglon5
+uc009gmx.1	
+uc009gng.1	Siglece
+uc012fjn.1	Acpt
+uc009goz.1	Gm15517
+uc012fjo.1	Shank1
+uc009gpe.2	Shank1
+uc009gpf.3	
+uc009gpg.1	1700008O03Rik
+uc009gpj.2	
+uc009gpk.1	Aspdh
+uc009gpo.3	
+uc009gpv.2	Mybpc2
+uc009gpw.1	Spib
+uc057agz.1	Kcnc3
+uc033izc.1	Zfp473
+uc009gtx.2	Slc17a7
+uc009gub.1	Ccdc155
+uc057ltz.1	
+uc009gur.2	
+uc009guv.1	Lin7b
+uc009guz.1	Kcna7
+uc009gva.1	Ntf5
+uc009gwe.1	Fgf21
+uc009gwo.2	Sec1
+uc012fkn.2	
+uc009gwx.1	Fam83e
+uc009gwy.1	Fam83e
+uc009gxa.1	Sult2b1
+uc009gxp.1	Syngr4
+uc009gye.1	Abcc8
+uc009gyy.2	
+uc009hao.2	Mrgprb8
+uc009hbc.1	Nav2
+uc009hbn.1	Dbx1
+uc009hfb.2	A330076H08Rik
+uc033izy.1	Gm26031
+uc009hfe.1	Gm9801
+uc009vel.1	Chrna7
+uc009hfr.2	Trpm1
+uc009hgv.1	
+uc009hhv.2	Cers3
+uc009hhx.1	Adamts17
+uc009hhy.1	1700112J16Rik
+uc057aht.1	
+uc009hnh.2	
+uc057ahv.1	
+uc057ahw.1	
+uc029wjl.1	
+uc009hrh.1	
+uc009hwe.3	
+uc033jac.1	
+uc009hza.1	Wdr93
+uc009hzc.1	Mesp2
+uc009hzg.1	5430400D12Rik
+uc009ibr.1	Alpk3
+uc009ibs.1	Slc28a1
+uc009iby.1	Ap3b2
+uc009ibz.1	Ap3b2
+uc009icd.1	Fsd2
+uc009icu.1	Bnc1
+uc009ida.2	Adamtsl3
+uc009idc.1	Fam154b
+uc009idd.1	Fam154b
+uc009idi.1	
+uc009iee.1	Gm26708
+uc012fos.1	Vmn2r79
+uc009ifv.1	Rab38
+uc009ify.1	
+uc009igx.1	Ccdc83
+uc009ihq.1	
+uc012fpl.1	Gdpd4
+uc009ikf.1	B3gnt6
+uc033jal.1	Gucy2d
+uc009ikm.1	A630091E08Rik
+uc009iks.1	Gm15506
+uc009iku.1	
+uc033jam.1	
+uc009ile.1	Dgat2
+uc033jao.1	Gm26705
+uc009ilz.1	Olfr520
+uc009ima.2	
+uc009imb.1	F730035P03Rik
+uc009ime.2	Xrra1
+uc009imf.1	
+uc009inf.1	D630004N19Rik
+uc009int.2	Relt
+uc057luu.1	
+uc012fqm.1	Art2a-ps
+uc009iqw.1	Chrna10
+uc009irs.2	Olfr544
+uc009irt.1	Olfr545
+uc009itr.1	Usp17lc
+uc009iut.1	Hbb-y
+uc057caq.1	Trim30b
+uc057car.1	Trim30b
+uc009iwl.1	Trim30e-ps1
+uc029wnn.1	Usp17le
+uc009iwz.2	Usp17la
+uc009ixq.1	Olfr684
+uc009ixv.2	Olfr690
+uc009ixw.1	Olfr691
+uc009ixx.1	Olfr692
+uc012frs.1	Gm21884
+uc009izr.2	
+uc009jas.1	Olfr713
+uc009jdb.1	Nlrp10
+uc009jdm.2	Stk33
+uc009jdo.1	1700095J03Rik
+uc012frz.1	Trim66
+uc009jdx.1	
+uc009jfk.1	
+uc009jga.1	
+uc009jgb.1	
+uc012fsg.1	Micalcl
+uc009jhb.1	Rassf10
+uc009jhd.2	
+uc009jht.1	
+uc009jia.2	4933406I18Rik
+uc009jjs.1	4930583K01Rik
+uc009jju.1	Syt17
+uc009jjw.1	Syt17
+uc009jkd.1	
+uc009jke.2	Tmc5
+uc009jln.2	Acsm4
+uc009jmg.1	Dnah3
+uc009jmi.1	Zp2
+uc009jmk.1	Crym
+uc009jmm.1	Abca14
+uc012fta.1	E130201H02Rik
+uc009jnj.1	4933427G17Rik
+uc057ajj.1	
+uc009jos.1	Chp2
+uc009jpa.1	
+uc009jph.1	Slc5a11
+uc029wok.1	
+uc029wol.1	
+uc029wom.1	
+uc029wop.1	
+uc009jqp.2	Gsg1l
+uc009jqx.3	
+uc009jsb.2	
+uc009jsc.1	Il27
+uc009jtn.2	
+uc009jue.1	Zg16
+uc009jug.1	Qprt
+uc009jup.2	
+uc009jwn.1	Ctf2
+uc009jwx.1	Stx1b
+uc009jyc.1	Itgax
+uc057cbb.1	
+uc029wox.1	
+uc009kbd.1	
+uc009kbe.1	Fam24a
+uc009kbo.3	
+uc009kbu.2	Cpxm2
+uc009kbv.2	Cpxm2
+uc009kca.1	
+uc029wpa.1	
+uc057lvo.1	
+uc009kea.1	
+uc012fvj.1	Nps
+uc009keb.1	4930544L04Rik
+uc009ked.1	Clrn3
+uc012fvn.1	Tcerg1l
+uc029wpf.2	Jakmip3
+uc057lvp.1	
+uc009kfz.2	9330101J02Rik
+uc009kgb.1	Gpr123
+uc009kgr.1	Caly
+uc009kgt.2	Prap1
+uc009kid.2	Syce1
+uc057lvt.1	
+uc009kif.1	Urah
+uc029wpk.1	
+uc009kih.1	Odf3
+uc009kjd.1	Ifitm6
+uc012fwo.1	Ano9
+uc009kkm.1	Drd4
+uc057lvu.1	
+uc057lvv.1	
+uc009kmc.1	Muc5b
+uc057ajz.1	
+uc057lvx.1	
+uc057lvy.1	
+uc029wpw.1	
+uc009kmq.1	Krtap5-5
+uc033jdi.1	Syt8
+uc009kne.1	Lsp1
+uc009kni.1	Gm14492
+uc012fxo.1	Igf2
+uc009koe.1	Igf2os
+uc009koi.1	Th
+uc009koj.2	Ascl2
+uc009kqr.2	
+uc009krv.1	C330021F23Rik
+uc009ksj.4	
+uc009ksl.1	Fcer2a
+uc009ksp.2	Clec4g
+uc009kth.2	Lrrc8e
+uc009kud.1	
+uc009kuf.1	4921522P10Rik
+uc033jeg.1	
+uc009kun.1	Tnfsf13b
+uc009kuo.1	Tnfsf13b
+uc009kuz.2	
+uc009kvt.2	
+uc012fzk.1	
+uc009kvy.1	Tex29
+uc012fzm.1	
+uc009kwr.3	F7
+uc009kwt.2	F10
+uc012fzs.1	Proz
+uc009kxu.1	Atp4b
+uc009kxw.3	
+uc009kyc.2	
+uc009kyg.1	4932443I19Rik
+uc009kyw.2	
+uc009kzp.1	Csmd1
+uc009lad.1	Defb34
+uc009laf.1	Spag11b
+uc029wrm.1	Gm21119
+uc009lby.2	Defb1
+uc009lck.1	Atp7b
+uc009lcq.1	Nek5
+uc009ldj.2	
+uc033jer.1	Gm15816
+uc009len.1	Nkx6-3
+uc009lev.2	Sfrp1
+uc057akp.1	Ido1
+uc009lfh.2	Adam32
+uc009lfj.2	Adam32
+uc009lfp.2	Htra4
+uc009lfw.1	
+uc009lfx.1	
+uc009lhe.1	Kcnu1
+uc009lic.1	Got1l1
+uc009lie.1	Adrb3
+uc057aku.1	
+uc029wrz.1	
+uc009liq.1	
+uc009lir.1	Tex24
+uc009lis.1	Chrnb3
+uc009liv.1	Chrna6
+uc009ljc.1	Dusp26
+uc057lwx.1	
+uc009ljm.1	
+uc009ljn.1	
+uc009ljr.1	Nrg1
+uc009ljs.1	Nrg1
+uc057cbs.1	
+uc012gcf.1	
+uc009lka.1	Tex15
+uc009lkc.1	Tex15
+uc012gch.1	Mboat4
+uc009llc.2	Cldn23
+uc029wsi.1	
+uc009lli.1	
+uc009lll.1	6430573F11Rik
+uc009lln.1	6430573F11Rik
+uc009llp.1	6430573F11Rik
+uc012gcm.1	Msr1
+uc033jfb.1	mmu-mir-7666
+uc009lng.1	Slc7a2
+uc009lnp.2	Fgl1
+uc009los.2	F11
+uc009lpl.1	Pdlim3
+uc057cbw.1	
+uc009lpm.1	Ccdc110
+uc009lpo.1	1700029J07Rik
+uc009lqu.1	
+uc009lse.1	Asb5
+uc009lso.1	Hpgd
+uc009lss.2	Hand2
+uc012gea.2	Galntl6
+uc009lte.1	Aadat
+uc009lvt.2	Npy1r
+uc009lvv.2	
+uc009lwe.2	Sh2d4a
+uc029wtq.1	
+uc009lxv.1	Lpar2
+uc009lxw.1	Lpar2
+uc009lxx.1	Pbx4
+uc009lyb.2	Cilp2
+uc009lyc.1	Yjefn3
+uc009lyr.1	Hapln4
+uc009lys.2	Ncan
+uc009lzq.1	Sugp2
+uc009mad.2	Comp
+uc009mai.2	Tmem59l
+uc009maz.1	Lrrc25
+uc012gfe.1	Gm3336
+uc033jfz.1	mmu-mir-7240
+uc009mbr.3	
+uc009mbz.2	Slc5a5
+uc012gfn.1	Mir1969
+uc012gft.1	Tmem221
+uc012gfu.1	Nxnl1
+uc009mfe.2	Cyp4f18
+uc009mfl.1	Hsh2d
+uc009mhv.1	Ednra
+uc009mil.2	1700011L22Rik
+uc009mix.2	Hhip
+uc009miz.1	Gypa
+uc012ggm.1	Frem3
+uc009mjt.2	Rnf150
+uc009mjx.2	Ucp1
+uc009mlf.1	Gm26721
+uc009mlp.2	
+uc009mls.1	Rln3
+uc012gha.1	Podnl1
+uc012ghb.1	Mir181d
+uc012ghc.1	Mir181c
+uc057ccg.1	
+uc009mms.1	Gm26664
+uc009mnq.1	1700122E12Rik
+uc009mnz.2	Klf1
+uc012ghp.1	Gm5741
+uc009mpm.1	
+uc009mpt.2	Mylk3
+uc009mqk.1	Abcc12
+uc009mql.1	Abcc12
+uc009mqr.1	Cbln1
+uc009mqt.1	4933402J07Rik
+uc009mqu.2	
+uc009msa.4	
+uc009msd.1	
+uc009mua.3	4933436C20Rik
+uc033jgt.1	4933436C20Rik
+uc009mub.1	Irx5
+uc009muh.2	Slc6a2
+uc009muj.2	
+uc009muk.1	Ces1b
+uc009mwd.2	Slc12a3
+uc009mwi.2	9330175E14Rik
+uc009mww.1	Ccl22
+uc009mwz.2	Ccl17
+uc009mxs.1	Ccdc135
+uc009myd.2	Tepp
+uc009myq.1	Prss54
+uc009mzp.1	
+uc009nal.2	Cmtm2b
+uc009nar.1	Ccdc79
+uc009nbb.1	1700082M22Rik
+uc009ncv.1	Plekhg4
+uc009neo.1	Ctrl
+uc009ngb.1	
+uc009ngi.2	Cdh1
+uc009ngu.1	Gm16208
+uc009nha.1	Tmed6
+uc009nie.1	D030068K23Rik
+uc009nih.3	
+uc009nii.2	Pmfbp1
+uc009nin.2	Hp
+uc009njp.2	Marveld3
+uc009nks.1	Hydin
+uc009nmf.2	Fa2h
+uc009nms.2	Ctrb1
+uc033jhz.1	
+uc009noa.1	Vat1l
+uc012gli.1	Pkd1l2
+uc012glj.1	Pkd1l2
+uc057ane.1	
+uc009npq.1	Necab2
+uc009npr.2	
+uc009nqb.1	Kcng4
+uc009nqg.1	Atp2c2
+uc009nrs.1	Foxl1
+uc009nru.1	1700030M09Rik
+uc012gmc.2	
+uc009ntv.1	Cdh15
+uc009nui.3	
+uc009nvs.2	Mc1r
+uc057lyj.1	
+uc009nwl.1	
+uc009nxb.1	Pgbd5
+uc009nxe.1	Agt
+uc009nxf.2	Capn9
+uc009nyq.1	BC021891
+uc009nze.1	
+uc009obd.3	
+uc009obq.2	Gria4
+uc009ocg.2	Mmp13
+uc009ocn.1	Mmp1b
+uc009oco.2	
+uc009ocp.1	Mmp1a
+uc009ocq.2	Mmp10
+uc009odn.1	Pgr
+uc009odo.1	
+uc009oer.1	
+uc009oet.1	Piwil4
+uc009oex.1	
+uc009oey.3	
+uc009ofe.1	
+uc009ogj.1	Fat3
+uc009ogr.2	Mbd3l2
+uc012got.1	
+uc009oje.1	Olfm2
+uc009oka.2	Icam5
+uc009oks.2	S1pr5
+uc009omc.3	
+uc009onh.1	Ccdc151
+uc009onl.2	Elavl3
+uc009ono.2	Elavl3
+uc009ood.1	Zfp872
+uc009ooi.1	
+uc012gpn.3	
+uc009oow.2	Bmper
+uc009opc.2	Dpy19l2
+uc009ope.2	Tbx20
+uc009opg.2	Tbx20
+uc009oqo.2	Spata19
+uc009oqr.2	
+uc009oqz.1	Adamts15
+uc009orh.1	Gm17508
+uc009ort.1	Tmem45b
+uc009osd.2	RP24-308I2.1
+uc029wye.1	
+uc012gqi.1	Ddx25
+uc009ovi.1	Panx3
+uc009ovn.2	Olfr876
+uc009ovo.1	Olfr877
+uc009owv.1	
+uc009oyu.1	Olfr975
+uc012gri.1	
+uc009ozf.2	Olfr986
+uc009ozt.1	Clmp
+uc009ozv.1	Gm16096
+uc057aof.1	
+uc009paa.1	Bsx
+uc009pac.1	4931429I11Rik
+uc009pao.1	
+uc009pap.1	Sorl1
+uc029wyk.1	D630033O11Rik
+uc009pbh.1	D630033O11Rik
+uc009pch.1	Pdzd3
+uc009pco.1	Abcg4
+uc009pem.1	Tmem25
+uc009pen.1	Tmem25
+uc009peo.1	Ttc36
+uc009pfa.2	Mpzl2
+uc009pfg.1	Scn2b
+uc009pfh.1	Scn4b
+uc009phb.3	Apoa1
+uc012gsl.1	4931429L15Rik
+uc012gsq.1	
+uc009piw.3	Tmprss5
+uc009pja.1	Drd2
+uc029wyt.1	
+uc009pjo.1	1600029D21Rik
+uc009plc.1	4833427G06Rik
+uc012gte.1	Mir34b
+uc009plh.2	1810046K07Rik
+uc009pma.2	Exph5
+uc057aoo.1	
+uc009pmm.1	Rab39
+uc009pqx.1	Gldn
+uc009prj.1	Acsbg1
+uc009pry.1	Chrna3
+uc009psq.1	Rfpl3s
+uc012gtv.1	
+uc009psv.2	Pstpip1
+uc009ptg.1	Gm26868
+uc009pth.2	Lingo1
+uc009puo.1	Trcg1
+uc009puy.1	Rpp25
+uc009pvg.2	Cplx3
+uc009pvm.1	Cyp1a2
+uc029xbi.1	
+uc009pwa.1	Cyp11a1
+uc009pwe.1	Gm16130
+uc009pwk.2	Islr
+uc012gul.1	1600029O15Rik
+uc009pxi.1	Hcn4
+uc009pyy.2	Thsd4
+uc029xbm.1	
+uc029xbq.1	
+uc009qag.1	Spesp1
+uc009qal.2	Itga11
+uc057lzq.1	
+uc009qbc.2	
+uc057cdo.1	
+uc009qbe.3	Iqch
+uc029xbt.1	1110036E04Rik
+uc009qcl.1	Slc24a1
+uc012gvj.1	Gm514
+uc009qde.2	Kbtbd13
+uc009qdk.1	
+uc057cdr.1	
+uc009qft.1	
+uc009qgs.1	
+uc009qib.2	
+uc009qif.2	
+uc012gwe.1	C2cd4a
+uc009qnt.1	Gcnt3
+uc033jlf.1	Gm25590
+uc009qox.2	Aldh1a2
+uc009qpm.1	RP23-292F17.5
+uc009qqh.1	Prtg
+uc009qqi.1	Pygo1
+uc009qqj.2	Dyx1c1
+uc009qqy.2	Khdc3
+uc033jll.2	
+uc057lzx.1	
+uc009qre.1	Wdr72
+uc009qsu.2	Bmp5
+uc009qsx.1	Hmgcll1
+uc012gxa.1	Mlip
+uc009qti.1	RP23-264N13.2
+uc009qto.1	Gcm1
+uc009quf.1	Gsta2
+uc009qug.3	
+uc009quh.2	Ooep
+uc012gxe.1	Ddx43
+uc029xew.1	
+uc009qvi.2	Impg1
+uc009qvl.1	Htr1b
+uc029xfc.1	
+uc009qxc.1	Ube2cbp
+uc012gxu.2	
+uc009qyh.2	Tbx18
+uc009qyw.1	9430037G07Rik
+uc057mag.1	
+uc012gyc.1	Trim43b
+uc009qzj.2	Bcl2a1b
+uc009qzt.1	Rasgrf1
+uc033jly.1	
+uc009rah.1	Zic4
+uc009rap.1	1700057G04Rik
+uc009ray.2	Slc9a9
+uc057ceb.1	
+uc009rbg.1	Pcolce2
+uc009rbk.2	Pls1
+uc029xfo.1	
+uc009rcx.1	Spsb4
+uc009rcz.1	Gm16010
+uc009rdd.1	Clstn2
+uc009rdk.2	Rbp2
+uc009rdl.1	
+uc012gyt.1	
+uc012gyw.1	2410012M07Rik
+uc009rdp.1	7420426K07Rik
+uc009rfo.2	Ephb1
+uc009rfp.1	Ky
+uc009rfv.1	
+uc009rfz.1	Gm5627
+uc009rgk.1	1300017J02Rik
+uc009rgt.1	5830418P13Rik
+uc009rhl.1	Acpp
+uc009rhm.1	Acpp
+uc009rhz.2	Nek11
+uc009ris.1	Col6a6
+uc009rjh.1	Tlr9
+uc009rkv.1	Dock3
+uc009rlg.1	6430571L13Rik
+uc009rlo.1	Zmynd10
+uc009rmf.2	Sema3b
+uc009rmr.1	Gnat1
+uc009ror.2	Mst1
+uc009rov.1	Bsn
+uc009rpl.3	
+uc009rrf.1	Tmem89
+uc012hax.1	Ucn2
+uc009rsr.2	
+uc009rsv.2	Camp
+uc009rtu.1	Cspg5
+uc033jng.1	mmu-mir-6236
+uc009rtz.2	Ngp
+uc009ruc.2	Kif9
+uc009rue.2	Kif9
+uc009ruf.2	Kif9
+uc009rvj.1	Ltf
+uc009rvt.2	Trank1
+uc009rvw.2	
+uc057aqi.1	2310075C17Rik
+uc009rxe.1	
+uc009rxo.2	Ccr4
+uc009rxp.2	
+uc029xgm.1	
+uc009ryu.1	
+uc009rzn.1	Gm17399
+uc009sag.1	Dlec1
+uc012hcj.1	Dlec1
+uc009sal.3	
+uc009sbl.1	Gm2449
+uc057max.1	
+uc009sbw.2	Xirp1
+uc009sbz.2	Cx3cr1
+uc009scq.3	
+uc033jns.1	5830454E08Rik
+uc029xgp.1	
+uc012hco.1	Ulk4
+uc009sdl.2	Vipr1
+uc009sdv.2	Klhl40
+uc009seh.2	1700048O20Rik
+uc009seg.2	1700048O20Rik
+uc009sez.2	A730085K08Rik
+uc009sfa.2	9530059O14Rik
+uc012hcx.1	Mir138-1
+uc012hcy.1	Topaz1
+uc009sfw.2	Clec3b
+uc033jny.1	
+uc009sgj.2	Slc6a20b
+uc009sgw.1	Xcr1
+uc009sku.1	Nudt11
+uc009skw.2	Nudt10
+uc009skx.2	Bmp15
+uc009slg.2	2010204K13Rik
+uc009slh.2	2010204K13Rik
+uc009sli.2	2010204K13Rik
+uc009slr.2	Syp
+uc009sls.2	Syp
+uc009snf.2	Pcsk1n
+uc009snl.2	Gata1
+uc009snm.1	Gata1
+uc009snn.1	Glod5
+uc009sns.2	Was
+uc009snt.1	Gm6787
+uc009sph.1	Gm6592
+uc009spv.3	Cybb
+uc009spw.2	Cybb
+uc057mbc.1	
+uc009sqk.2	Otc
+uc012hex.2	
+uc009sre.1	Gm14634
+uc009srn.1	Nyx
+uc009ssc.2	Ndp
+uc009ssd.1	
+uc012hfd.1	Mir222
+uc009ssq.2	
+uc057mbe.1	
+uc009std.1	Rgn
+uc009sul.2	Spaca5
+uc009suo.1	
+uc012hfh.1	Gm6938
+uc057mbg.1	
+uc012hfi.1	Gm4907
+uc029xjd.1	
+uc057cex.1	2310010G23Rik
+uc009sxz.3	
+uc009tbc.2	
+uc009tbf.1	Dcaf12l2
+uc009tbi.2	
+uc009tbn.2	Smarca1
+uc009tci.2	Rab33a
+uc009tec.1	Usp26
+uc009teg.3	
+uc012hhc.1	Mir717
+uc009tem.1	Ccdc160
+uc012hhj.1	Mir450b
+uc029xjy.1	C430049B03Rik
+uc012hhr.1	
+uc057mbk.1	
+uc057mbl.1	
+uc009tfh.1	AW822252
+uc009tfi.1	4930502E18Rik
+uc009tfj.2	1700013H16Rik
+uc009tfk.1	
+uc009tfn.1	Gm15482
+uc009tgd.2	6330419J24Rik
+uc029xkd.1	Gm14633
+uc009tgi.1	Gm648
+uc009tgp.1	Mtap7d3
+uc009thm.4	
+uc009ths.2	4930550L24Rik
+uc009tie.1	Gm14661
+uc033jqd.2	
+uc009tij.1	Ldoc1
+uc012hjf.1	Gm10474
+uc009tjb.1	Aff2
+uc012hjk.1	
+uc009tkg.2	Gm1141
+uc009tkm.1	Gabre
+uc009tkp.2	Gabra3
+uc009tlb.1	Xlr4a
+uc009tlr.2	Zfp92
+uc057cfe.1	Atp2b3
+uc009tma.2	Atp2b3
+uc009tmn.2	Plxnb3
+uc009tmt.1	Pdzd4
+uc012hkp.2	
+uc009tnw.1	Rpl3-ps2
+uc009tnx.1	Tktl1
+uc009tps.1	Smim9
+uc009tqe.2	Rab39b
+uc009tqf.1	Gm15063
+uc029xky.1	Gm8692
+uc009tra.1	Gm7173
+uc009trd.2	Gm14760
+uc009ttk.1	4932442L08Rik
+uc029xlp.1	Gm14827
+uc009tuq.2	Gpr165
+uc009tuv.2	Ar
+uc057asf.2	
+uc012hms.1	Otud6a
+uc009twc.1	P2ry4
+uc009twd.2	Arr3
+uc009tws.2	Tex11
+uc009txu.1	Itgb1bp2
+uc057mca.1	
+uc009tye.2	Cxcr3
+uc009tyf.1	8030474K03Rik
+uc012hnc.1	
+uc009tzi.2	Nap1l2
+uc009tzm.2	Tsx
+uc012hne.1	
+uc009tzx.1	Zcchc13
+uc009uak.1	Magee2
+uc009uas.1	5530601H04Rik
+uc009ubs.2	
+uc012hny.1	5730416F02Rik
+uc009ucu.2	Gm6377
+uc009ucv.2	Pou3f4
+uc009ude.1	4933403O08Rik
+uc009udm.1	Pof1b
+uc009udq.1	Dach2
+uc033jsi.2	H2afb3
+uc009ufb.1	4930570D08Rik
+uc009uft.1	Tmem35
+uc009uge.2	Btk
+uc009ugt.2	Nxf2
+uc012hot.1	Arxes1
+uc009uia.2	Bex2
+uc009uin.1	Kir3dl2
+uc009ukd.1	C330013F16Rik
+uc009uke.2	Trap1a
+uc009uki.2	Rnf128
+uc009ukl.3	
+uc009ukv.2	Nup62cl
+uc057cfw.1	Frmpd3
+uc012hpp.1	Col4a6
+uc057mcg.1	
+uc009uls.1	Gm5643
+uc009ult.1	Kcne1l
+uc009umd.3	Rgag1
+uc009ume.2	Chrdl1
+uc009umf.2	Chrdl1
+uc009umi.2	Pak3
+uc009umk.3	
+uc009umv.2	Trpc5
+uc009umx.1	Gm15070
+uc009umz.1	Lhfpl1
+uc057cfy.1	
+uc009uni.1	Lrch2
+uc009unk.1	Lrch2
+uc009uoe.1	Gm5946
+uc057cfz.1	Itih5l-ps
+uc009uqp.3	
+uc009uqs.2	Foxr2
+uc009urp.1	1700042B14Rik
+uc009ury.1	Phex
+uc009usf.1	Gm15169
+uc009usg.2	Klhl34
+uc009uwj.2	Gpm6b
+uc029xoj.1	Gm1720
+uc012hrm.1	Gm8817
+uc009uxy.1	Gm15246
+uc009uyv.2	Zfy1
+uc009uzo.1	Usp9y
+uc057mdi.1	
+uc007ehs.1	
+uc007ehp.1	Iyd
+uc056yfw.1	
+uc011wzs.1	Ccdc170
+uc007eiq.2	Zc3h12d
+uc029qvq.1	Mir5104
+uc011xaa.1	Ust
+uc007eit.1	Ust
+uc056ygd.1	
+uc056yge.1	Gm9930
+uc029qvr.1	Adgb
+uc011xac.1	Gm5177
+uc007ekf.2	B230208H11Rik
+uc007els.2	
+uc011xan.1	Ect2l
+uc007emn.1	D10Bwg1379e
+uc007enc.2	
+uc007enf.1	
+uc007enh.1	Il22ra2
+uc007enk.1	Slc35d3
+uc007eoh.1	
+uc007eoi.1	
+uc007eoq.1	Aldh8a1
+uc007eor.1	
+uc007eos.2	1700020N01Rik
+uc007eot.1	Gm5420
+uc033fox.1	
+uc007eqc.2	Vnn1
+uc007eqd.1	Taar1
+uc007erg.2	Arg1
+uc057kie.1	
+uc029qwl.1	
+uc011xby.1	Gm8709
+uc057kig.1	
+uc029qws.1	
+uc056ygl.1	Themis
+uc007eso.2	Themis
+uc007esp.2	Themis
+uc011xcc.1	
+uc007etb.3	
+uc007etp.1	Hey2
+uc007etw.2	
+uc011xcl.1	Trdn
+uc007eue.1	Clvs2
+uc011xco.2	Gm17567
+uc033fpd.2	
+uc011xct.1	Rfpl4b
+uc007ewg.1	4930547M16Rik
+uc007ewl.2	AI317395
+uc057kin.1	
+uc007exd.1	Mettl24
+uc056ygq.3	
+uc007exx.1	Ccdc162
+uc007eyi.2	Armc2
+uc007eyj.1	
+uc011xdj.2	9030612E09Rik
+uc057kir.1	
+uc007ezz.1	Bves
+uc029qxa.1	
+uc007fal.1	Sim1
+uc007fbh.1	Nepn
+uc029qxe.1	Zfa-ps
+uc029qxf.1	
+uc007fbt.2	Fam184a
+uc007fbu.2	Fam184a
+uc029qxg.1	4930467K11Rik
+uc007fct.1	Fabp7
+uc007fcw.1	Gm4981
+uc007fdh.2	Edar
+uc007fdk.2	Sh3rf3
+uc007ffh.1	Gm26947
+uc007ffy.2	Nodal
+uc007fgd.2	Npffr1
+uc007fgf.2	
+uc057kix.1	
+uc007fhc.1	Hkdc1
+uc029qxm.1	
+uc007fjf.1	Tet1
+uc007fjr.1	Pbld2
+uc007fjs.1	Pbld1
+uc007fju.2	
+uc007fjv.1	Atoh7
+uc007fkk.1	Lrrtm3
+uc057kiz.1	
+uc056yhe.1	
+uc007fml.1	1700040L02Rik
+uc007fni.1	Ank3
+uc007fnn.1	Ank3
+uc007fno.1	
+uc007fnp.4	2310015B20Rik
+uc007fpw.1	Rab36
+uc007fpz.1	Rab36
+uc007fqo.3	Ggt1
+uc029qyx.1	
+uc007frh.2	
+uc029qza.1	
+uc007frp.2	
+uc007ftt.1	Vpreb3
+uc007ftu.3	
+uc007ftx.1	Slc5a4b
+uc007fuc.2	S100b
+uc007fve.1	Slc19a1
+uc007fvf.2	Slc19a1
+uc011xhd.1	
+uc007fwi.4	
+uc007fwl.2	Trpm2
+uc007fyd.2	Casp14
+uc007fyf.2	Ccdc105
+uc007fyg.2	Slc1a6
+uc007fyn.2	Olfr57
+uc009vab.1	Vmn2r83
+uc007fzf.1	Madcam1
+uc007fzq.1	Fgf22
+uc007gao.3	
+uc007gcv.3	Adamtsl5
+uc033frc.1	Adamtsl5
+uc007gdn.2	
+uc007gdu.1	Gm26710
+uc007get.1	Amh
+uc007gey.3	Lingo3
+uc007gfo.1	Diras1
+uc007gfw.1	Creb3l3
+uc007ggn.1	Nmrk2
+uc007ggu.2	Matk
+uc007gje.1	
+uc007gji.1	
+uc007gjx.1	1700028I16Rik
+uc029rah.1	
+uc029raj.1	
+uc011xju.2	
+uc029rar.1	
+uc029ras.1	
+uc029rat.1	
+uc011xjz.2	
+uc011xkc.1	
+uc011xkd.2	
+uc011xke.1	
+uc011xkg.2	
+uc011xkh.2	
+uc029rbn.1	
+uc029rbr.1	
+uc029rbu.1	
+uc029rbx.1	
+uc011xko.1	
+uc029rbz.1	
+uc029rca.1	
+uc029rcc.1	
+uc007gkm.2	1500009L16Rik
+uc007gkn.1	
+uc056yhq.1	4930463O16Rik
+uc007glg.2	Btbd11
+uc007gms.2	
+uc029rda.1	
+uc029rdb.1	
+uc007gmu.2	
+uc007gmw.2	
+uc007gmy.2	
+uc007gna.2	
+uc029rdh.1	
+uc029rdi.1	
+uc007gnj.2	Bpifc
+uc007gpq.2	
+uc011xkw.1	Stab2
+uc011xkz.1	Stab2
+uc007gqt.2	Pah
+uc011xlj.1	Gm4925
+uc007grz.1	Slc5a8
+uc007gsa.1	Ano4
+uc007gsc.1	Ano4
+uc011xlk.1	Ano4
+uc007gsh.2	Nr1h4
+uc007gsk.2	Slc17a8
+uc033fse.1	
+uc033fsf.1	
+uc007guh.2	Gm872
+uc007guj.1	Gm872
+uc033fsg.1	
+uc007gus.2	Hal
+uc007gut.2	Amdhd1
+uc029rep.1	Usp44
+uc007gvs.1	Tmcc3
+uc007gvz.3	Plxnc1
+uc056yhz.1	
+uc029req.1	
+uc007gwq.1	
+uc007gwr.1	
+uc007gws.1	
+uc033fsi.1	
+uc007gwz.2	Lum
+uc007gxn.1	
+uc029rez.1	
+uc007gxo.1	Csl
+uc007gyg.1	Alx1
+uc011xmu.1	Lrriq1
+uc011xna.1	Acss3
+uc007gyv.2	Acss3
+uc007gyw.2	Acss3
+uc007gzb.1	Ptprq
+uc011xnc.1	Otogl
+uc007gzm.1	
+uc011xng.1	
+uc029rfo.1	
+uc007hap.1	Kcnc2
+uc007hat.2	Trhde
+uc057axk.1	
+uc007hby.1	Kcnmb4
+uc007hbz.3	
+uc007hcg.1	Gm26579
+uc007hci.1	Myrfl
+uc011xnm.2	
+uc007hcp.1	Best3
+uc056yij.1	
+uc007hda.1	Lyz2
+uc029rfv.1	
+uc007hdz.1	
+uc007hff.3	
+uc007hfg.1	4921513I03Rik
+uc029rjn.1	
+uc011xpd.1	Mirlet7i
+uc011xpg.1	
+uc007hhi.1	
+uc007hhl.2	Avil
+uc029rjq.1	Mettl21b
+uc007hif.2	B4galnt1
+uc033fsy.1	Slc26a10
+uc007his.2	Kif5a
+uc007hit.2	Kif5a
+uc007hjf.1	Gli1
+uc007hjj.3	
+uc007hjs.1	Stac3
+uc007hjw.1	Nxph4
+uc007hkh.2	Myo1a
+uc007hkn.2	Rdh1
+uc007hkp.1	Rdh9
+uc007hly.1	Apon
+uc007hlz.1	Apof
+uc007hmc.1	Il23a
+uc007hnm.1	Erbb3
+uc033ftn.1	Gdf11
+uc007hot.1	Gdf11
+uc007hpb.2	
+uc007hpc.2	
+uc007hpd.1	Mettl7b
+uc007hrh.1	Olfr827
+uc009vae.1	Vmn2r87
+uc007hsz.1	Pla2g3
+uc007hub.2	Gal3st1
+uc029rkh.1	
+uc007hue.2	
+uc007hug.1	Mtfp1
+uc007hve.1	Cabp7
+uc011xrd.1	Emid1
+uc007hxl.1	Myl7
+uc007hyb.2	Npc1l1
+uc007hyt.2	Myo1g
+uc007hyy.1	Nacad
+uc007hzf.2	
+uc007hzh.2	Igfbp1
+uc007hzm.1	Pkd1l1
+uc007hzn.1	Pkd1l1
+uc007hzo.1	Pkd1l1
+uc007hzv.1	Gm11992
+uc007iaa.1	Abca13
+uc007iae.2	Zpbp
+uc007iaf.1	4930415F15Rik
+uc007iay.2	1700042O10Rik
+uc057kkm.1	
+uc007ief.1	Gm12052
+uc007ieg.1	Gm12055
+uc056yka.1	
+uc011xsd.1	1700093K21Rik
+uc011xse.2	
+uc029rkx.1	4933430M04Rik
+uc007igb.2	5730522E02Rik
+uc029rkz.1	2810471M01Rik
+uc057kkq.1	
+uc007iib.3	
+uc007iil.1	
+uc007iiu.1	4930524B15Rik
+uc007ijs.2	Efcab9
+uc007ild.2	Slit3
+uc007imm.1	
+uc007ims.2	Ccnjl
+uc007inc.2	Il12b
+uc056ykn.1	4930597A21Rik
+uc011xtj.1	Sox30
+uc007ioz.1	Sgcd
+uc033fup.1	
+uc033fuq.1	
+uc033fuu.1	
+uc007ips.1	Olfr1395
+uc007ipt.1	Olfr1394
+uc007ipu.1	Btnl9
+uc011xuc.1	Btnl9
+uc007iqf.1	Olfr1393
+uc007iqg.2	
+uc007iqj.1	Olfr1390
+uc007isi.1	Cby3
+uc007iso.2	Adamts2
+uc057ayg.1	Adamts2
+uc007isr.2	Zfp879
+uc007iss.1	Grm6
+uc007isu.2	Grm6
+uc007itj.1	Olfr51
+uc007itq.1	BC049762
+uc033fvk.1	Col23a1
+uc007ivx.1	Leap2
+uc007iwf.1	Sowaha
+uc007iwg.1	
+uc007iwk.1	A430108G06Rik
+uc007iwq.3	
+uc007iwr.2	Il13
+uc007iwv.1	Il5
+uc033fvn.1	mmu-mir-7671
+uc007ixf.2	Pdlim4
+uc007ixg.2	Pdlim4
+uc007ixm.1	Csf2
+uc007izb.1	4921508A21Rik
+uc007izf.1	Fat2
+uc033fvq.1	
+uc007jcr.2	Hist3h2ba
+uc007jcs.1	Hist3h2bb-ps
+uc029rlw.1	Obscn
+uc029rlx.1	Obscn
+uc007jde.2	Gjc2
+uc007jdr.1	Prss38
+uc029rly.1	1700013G23Rik
+uc007jhg.1	Slc47a2
+uc007jhh.2	Slc47a1
+uc033fwd.1	
+uc007jio.1	Adora2b
+uc007jjw.1	4921522H14Rik
+uc007jki.1	Gm12284
+uc007jkr.1	Hs3st3a1
+uc007jla.1	Gm12295
+uc007jlg.1	Dnah9
+uc007jlx.1	Myh3
+uc007jmg.1	Myh1
+uc007jmn.2	
+uc007jmt.1	Myh13
+uc007jnf.1	Wdr16
+uc011xwr.1	Ccdc42
+uc007jog.1	Rnf222
+uc033fwv.1	
+uc033fwx.1	
+uc033fxb.1	
+uc057klk.1	
+uc033fxe.1	
+uc033fxf.1	
+uc033fxg.1	
+uc033fxh.1	
+uc033fxi.1	
+uc007jpk.1	Alox12b
+uc007jps.1	Kcnab3
+uc007jpt.1	Kcnab3
+uc007jqo.1	Atp1b2
+uc011xwz.1	Mir1934
+uc007jrt.2	
+uc007jru.1	4933402P03Rik
+uc007jrv.1	Spem1
+uc011xxl.1	Cldn7
+uc007jtb.2	Cldn7
+uc011xxq.1	Mir195
+uc007juo.1	Alox15
+uc007jvc.1	Vmo1
+uc007jvd.1	Gltpd2
+uc007jvo.1	Chrne
+uc011xxw.1	4930544D05Rik
+uc011xxy.2	
+uc007jwn.1	Gm12320
+uc007jxo.1	6330403K07Rik
+uc007jxq.2	Nlrp1a
+uc007jxu.1	Nlrp1c-ps
+uc007jys.2	Fbxo39
+uc007jyv.1	Smtnl2
+uc007jyw.2	
+uc007jzq.2	P2rx1
+uc007jzs.1	4732414G09Rik
+uc007jzt.2	
+uc007kah.2	Trpv1
+uc007kal.2	Aspa
+uc007kam.2	Aspa
+uc007kbq.1	Olfr406
+uc007kbz.1	E130309D14Rik
+uc057ayz.1	
+uc007kdh.1	Rtn4rl1
+uc007kdr.2	Serpinf2
+uc007key.2	1700016K19Rik
+uc007kfy.2	Tusc5
+uc007kgf.2	Slc6a4
+uc011xzv.1	Coro6
+uc007kgs.1	Coro6
+uc007khm.2	Pipox
+uc011xzz.1	Gm11190
+uc007kiw.3	
+uc007kjk.2	Vtn
+uc007kku.1	Rab11fip4
+uc007kkv.1	Gm11202
+uc007kkx.3	
+uc033fys.1	
+uc007kky.1	9130204K15Rik
+uc007klt.2	Rhbdl3
+uc007kmn.1	1700071K01Rik
+uc011yaw.2	Tmem132e
+uc007koi.1	Slfn1
+uc007koj.1	Slfn4
+uc011ybf.1	AI662270
+uc007koy.2	Gas2l2
+uc007kph.2	Gm11435
+uc007kpj.1	Ccl9
+uc007kpm.1	Ccl6
+uc007kqt.1	4930502E09Rik
+uc007ksb.1	Tbx2
+uc007ktf.1	Gm11479
+uc007kuc.1	Hsf5
+uc056ynw.1	
+uc007kud.1	Rnf43
+uc007kue.2	Rnf43
+uc007kus.2	Lpo
+uc007kve.1	Gm15892
+uc011ych.1	1700106J16Rik
+uc007kvy.3	
+uc007kwh.2	Nog
+uc007kyg.2	Wfikkn2
+uc057kmg.1	
+uc007kzo.3	Sgca
+uc007kzq.2	Hils1
+uc007kzy.3	
+uc007lac.2	
+uc007lam.3	
+uc007lbl.2	
+uc007lbr.1	Hoxb7
+uc007lbv.2	Hoxb4
+uc011ydh.1	Gm11529
+uc057azt.1	
+uc007ldj.1	Gm11532
+uc007ldl.1	Lrrc46
+uc007ldr.2	Tbx21
+uc007ldy.1	Gpr179
+uc007leb.1	
+uc007lee.1	Srcin1
+uc007lef.1	2410003L11Rik
+uc007leg.1	E130012A19Rik
+uc033fzs.1	
+uc033fzt.1	mmu-mir-8102
+uc007let.1	1700001P01Rik
+uc033fzw.1	
+uc007lfl.1	Stac2
+uc007lga.2	Ppp1r1b
+uc007lgf.1	Tcap
+uc007lgv.1	Gsdma
+uc007lgy.1	Csf3
+uc007lhr.1	Rapgefl1
+uc007lig.2	Tns4
+uc007lih.1	Ccr7
+uc007liq.2	Krt28
+uc007lks.2	Krt17
+uc057bab.1	Gm12348
+uc007llh.1	Klhl10
+uc007lli.1	Klhl10
+uc057bac.1	Ttc25
+uc007lmf.2	Kcnh4
+uc007lmg.1	Hcrt
+uc007lnb.1	Hsd17b1
+uc007lop.2	Aoc3
+uc057kml.1	
+uc011yfn.1	Sost
+uc011yfo.2	
+uc007lqe.1	Mpp3
+uc056yoo.1	Bloodlinc
+uc007lry.2	Itga2b
+uc007lrz.1	Itga2b
+uc007lsa.1	Itga2b
+uc007lsd.1	Gm11627
+uc011yft.1	Fzd2
+uc011yfv.2	Gm1564
+uc007lso.2	
+uc007lsw.2	Gfap
+uc007lsx.2	Gfap
+uc007lsz.2	C1ql1
+uc007ltw.1	Fmnl1
+uc029roi.2	1700023F06Rik
+uc029ror.1	
+uc007lut.2	
+uc007lvj.1	
+uc007lvr.1	Wnt9b
+uc011yfz.1	Sppl2c
+uc007lwe.1	Mapt
+uc007lwg.3	
+uc007lwy.1	Efcab3
+uc007lwz.1	Efcab3
+uc007lxj.2	March10
+uc007lxk.1	Gm11638
+uc011ygg.2	
+uc007lyr.1	Tcam1
+uc007lyu.1	Scn4a
+uc007mab.3	
+uc007may.1	Cacng1
+uc007maz.1	Cacng4
+uc007mbp.2	Apoh
+uc007mcf.1	9930022D16Rik
+uc007mdj.4	
+uc007med.2	Sox9
+uc007mfe.1	Sdk2
+uc007mfn.1	Dnaic2
+uc007mfo.1	Dnaic2
+uc007mfp.1	Dnaic2
+uc007mfq.1	Kif19a
+uc007mfw.2	Gprc5c
+uc007mgk.1	Cd300e
+uc007mgx.1	Grin2c
+uc007mgz.2	Fads6
+uc007mhc.1	Ush1g
+uc007mho.1	4933422H20Rik
+uc011yhu.1	Cdk3-ps
+uc007mkr.2	Galr2
+uc007mlc.1	Qrich2
+uc007mlp.2	Aanat
+uc007mlv.1	Cygb
+uc057bau.1	Gm11729
+uc057kna.1	
+uc056ypf.2	
+uc007mof.1	Tmem235
+uc007mpy.1	Gm11754
+uc007mqc.1	Ccdc40
+uc007mqf.1	Ccdc40
+uc011yis.1	Mir1932
+uc029rqb.1	Gm11762
+uc007msc.2	
+uc007msk.2	Fscn2
+uc011yiz.1	Tspan10
+uc007mth.1	Ppp1r27
+uc007mtx.2	
+uc007mtz.3	
+uc007mvc.3	
+uc007mve.1	Sectm1a
+uc007mvj.1	Uts2r
+uc007mvw.2	Fn3k
+uc007mvx.2	Fn3k
+uc007mwe.1	Gm12589
+uc007mwz.1	
+uc011yjv.1	Fam228b
+uc007myg.1	Pfn4
+uc007myw.4	
+uc007myy.1	
+uc007mzc.1	
+uc007mzf.2	Apob
+uc007nab.1	Gm4755
+uc007nag.2	Matn3
+uc011ykf.1	Vsnl1
+uc011ykh.1	Rad51ap2
+uc057kns.1	
+uc007nbn.1	Fam84a
+uc007nbr.1	Gm5432
+uc007nda.1	
+uc007ndz.1	Gm4419
+uc007nea.1	
+uc007nec.1	
+uc011yky.1	Gm20472
+uc007nem.2	Grhl1
+uc007nfn.2	Sox11
+uc007ngo.2	Tpo
+uc029rrs.1	
+uc007nij.1	Cdhr3
+uc007nit.2	Efcab10
+uc007niw.1	Twist1
+uc007nje.1	Prps1l1
+uc007njo.1	Gm5434
+uc007nkf.1	Meox2
+uc007nki.1	Dgkb
+uc033gdb.1	Etv1
+uc007nku.2	
+uc007nkz.2	Gm7008
+uc007nmd.2	Nova1
+uc057knx.1	
+uc007nnm.1	Akap6
+uc007nny.1	
+uc007nos.3	Aldoart2
+uc007not.2	
+uc007nph.2	
+uc007npi.2	Pax9
+uc011ymc.1	Slc25a21
+uc007nps.2	
+uc057bbj.1	Ttc6
+uc007npu.1	Sstr1
+uc057kog.1	
+uc007nqc.1	Mia2
+uc011yme.1	Fscb
+uc057koi.1	
+uc007nsk.2	
+uc057koj.1	
+uc007nvc.1	Gpr135
+uc007nvl.2	Lrrc9
+uc007nvn.2	Lrrc9
+uc007nvo.2	Lrrc9
+uc011ynq.1	4930447C04Rik
+uc057kol.1	
+uc007nvz.1	
+uc007nwm.1	Tmem30b
+uc029rtj.1	
+uc007nwy.1	Dbpht2
+uc007nxd.1	Gphb5
+uc007nya.2	Akap5
+uc057kon.1	
+uc011yob.1	Ppp1r36
+uc011yoc.1	Gm10451
+uc007nyh.2	Gm10451
+uc007nyo.1	Sptb
+uc007nyp.1	Sptb
+uc056yre.1	
+uc056yrf.1	
+uc057kop.1	
+uc007obh.2	Ccdc177
+uc007obl.2	
+uc011yoj.1	Slc10a1
+uc007obs.2	Slc10a1
+uc057kor.1	
+uc007ock.2	
+uc007oco.2	Map3k9
+uc007ocp.3	
+uc007odc.2	Dpf3
+uc007oed.1	Acot4
+uc007oee.1	4732463B04Rik
+uc056yrr.1	
+uc011ypl.1	Ngb
+uc057bce.1	
+uc007okf.2	
+uc007okg.1	Gm26512
+uc007okq.2	Tshr
+uc007ole.2	
+uc007orr.2	
+uc007orz.1	Gm26839
+uc007osa.2	
+uc007osp.1	Gm10433
+uc007otz.1	Slc24a4
+uc007oua.1	
+uc011yqz.1	Ppp4r4
+uc007ovy.2	Ppp4r4
+uc007owg.1	Serpina1d
+uc007owl.2	
+uc007owv.1	Serpina3c
+uc007oxh.1	Gsc
+uc007oyi.2	
+uc007oyk.2	D430019H16Rik
+uc033gfe.2	
+uc007oyl.1	
+uc007oyn.1	Bdkrb1
+uc007oyt.1	Ak7
+uc007oyu.1	Ak7
+uc007ozo.1	Cyp46a1
+uc007pal.1	
+uc057kpf.1	
+uc057kpg.1	
+uc011yuc.1	Mir453
+uc011yul.1	Mir3072
+uc007pbh.2	
+uc007pbv.1	Stk30
+uc007pbx.1	Stk30
+uc007pbz.1	4921507G05Rik
+uc029ryd.1	
+uc007pcp.2	Amn
+uc007pcu.1	A230065H16Rik
+uc007pek.1	Aspg
+uc007peo.1	
+uc011yve.1	A730018C14Rik
+uc029ryg.1	
+uc007per.1	Tmem179
+uc007pfd.1	Pld4
+uc007pfk.1	Gpr132
+uc007pgc.2	
+uc007pin.3	
+uc007pip.2	2810429I04Rik
+uc007piq.2	2810429I04Rik
+uc007pja.2	Calml3
+uc007pjl.2	Akr1c13
+uc007pjm.2	Akr1c19
+uc007pjn.1	Akr1c12
+uc007pjr.1	Akr1c21
+uc007pjv.1	
+uc007pkh.2	Adarb2
+uc007pko.1	Idi2
+uc007plb.1	
+uc007pld.1	Ryr2
+uc007pli.2	
+uc029rzb.1	
+uc007ppu.2	Aoah
+uc033ghc.1	
+uc033ghm.1	
+uc033ghp.1	
+uc007pqo.1	
+uc007pqp.1	
+uc007pqq.1	
+uc007pqs.2	Olfr1366
+uc007pqt.1	Olfr1535
+uc007prb.2	Hist1h2ai
+uc007prc.1	
+uc007prd.2	Hist1h2bm
+uc007pre.2	Hist1h4j
+uc007prg.2	Hist1h2ak
+uc029rzf.1	
+uc007pri.2	Hist1h1b
+uc007prj.1	
+uc007prs.2	Hist1h4n
+uc033gia.1	
+uc033gid.1	
+uc033gin.1	
+uc033gis.1	
+uc007prz.1	Prss16
+uc033giw.1	
+uc033gix.1	
+uc033giz.1	
+uc007psa.2	Hist1h2ah
+uc007psd.2	Hist1h2ag
+uc007pti.1	Vmn1r218
+uc033gji.1	
+uc033gjp.1	
+uc033gju.1	
+uc033gjw.1	
+uc033gkg.1	
+uc007ptt.1	Btn1a1
+uc033gkr.1	
+uc033gkx.1	
+uc007ptw.2	Hist1h2af
+uc007ptx.1	Hist1h3g
+uc007ptz.3	Hist1h3f
+uc007pua.2	Hist1h4f
+uc007puc.2	Hist1h3e
+uc007pud.2	Hist1h2ae
+uc007puf.2	Hist1h2bf
+uc007pug.2	Hist1h3d
+uc007pun.2	Hist1h1t
+uc007puo.2	Hist1h4c
+uc007pur.1	Hist1h3c
+uc007pus.2	Hist1h2bb
+uc007put.2	Hist1h2ab
+uc007puu.2	Hist1h3b
+uc007puw.2	Hist1h4b
+uc007puy.2	Hist1h3a
+uc007puz.2	Hist1h1a
+uc007pvs.1	Gm11342
+uc007pwf.1	1700016G14Rik
+uc007pww.2	Dcdc2a
+uc007pxx.1	Prl7b1
+uc007pyi.2	2610307P16Rik
+uc007pyj.2	2610307P16Rik
+uc033gld.1	mmu-mir-6368
+uc007pym.1	
+uc007pzb.1	
+uc011yxy.1	Gm5447
+uc007pzh.1	Gm11373
+uc011yya.1	Mylk4
+uc007qab.2	Serpinb1b
+uc007qan.1	Serpinb6c
+uc007qbv.1	Eci3
+uc007qcm.3	Nrn1
+uc007qcs.1	
+uc007qct.1	
+uc007qdk.2	Dsp
+uc057bdd.2	
+uc007qgi.1	
+uc007qhe.1	Rbm24
+uc007qho.1	
+uc007qia.1	
+uc007qid.1	Id4
+uc007qlx.2	
+uc007qme.1	Nxnl2
+uc007qms.2	
+uc007qmv.1	Diras2
+uc007qnj.1	Ror2
+uc029sbf.1	
+uc007qnq.2	
+uc007qnt.1	
+uc029sbh.1	
+uc007qnw.1	Msx2
+uc007qob.1	Hrh2
+uc007qoz.2	Cdhr2
+uc007qqv.3	F12
+uc007qsd.1	Pitx1
+uc007qtp.1	Gm26555
+uc007qtq.1	Kif27
+uc007qut.1	Agtpbp1
+uc007qvb.1	Spata31d1d
+uc007qvc.2	4930528D03Rik
+uc007qvi.2	Gas1
+uc007qvw.2	Tpbpb
+uc007qvz.1	Tpbpa
+uc007qwn.2	
+uc007qwu.2	
+uc007qyz.1	Cntnap3
+uc011zbg.1	
+uc007ran.2	
+uc007rat.3	
+uc007rbt.2	BC048507
+uc007rcd.2	1700001L19Rik
+uc007rcf.1	Adcy2
+uc007rcj.1	A530095I07Rik
+uc007rcp.2	Ube2ql1
+uc007rdd.1	Irx1
+uc007rde.2	Irx2
+uc007rdj.1	
+uc007rdn.1	Slc6a3
+uc007rdp.1	Tert
+uc007rdy.1	Slc6a19
+uc007reo.2	Tppp
+uc007res.2	Slc9a3
+uc007ret.1	Slc9a3
+uc007rex.1	Ahrr
+uc007rfs.1	Pcsk1
+uc007rft.1	
+uc007rga.1	
+uc007rgg.1	Gpr150
+uc007rgm.1	
+uc033gmn.1	
+uc007rhm.2	
+uc007rio.1	A230107N01Rik
+uc056yuo.1	
+uc057bdo.1	
+uc007rjp.1	
+uc011zcl.1	Atp6ap1l
+uc007rkc.1	Ckmt2
+uc007rkd.1	1700119I11Rik
+uc029sco.2	
+uc007rkm.1	C030017D09Rik
+uc007rky.3	
+uc007rlk.1	Bhmt2
+uc007rll.1	Dmgdh
+uc007rlm.2	AW495222
+uc007rml.1	S100z
+uc007rno.2	Gcnt4
+uc007roe.1	
+uc033gna.1	Gm2373
+uc029sct.1	
+uc057kqr.1	
+uc029scu.1	
+uc029scx.1	
+uc029scy.1	
+uc007rsg.1	
+uc007rto.1	Fam159b
+uc007rtp.1	Rgs7bp
+uc057kqu.1	
+uc007ruj.2	
+uc007ruk.1	
+uc007run.2	
+uc007rwb.1	Gm15326
+uc007rwl.1	
+uc007rwz.1	Ccno
+uc007rxf.1	BC067074
+uc007rym.2	Emb
+uc007ryo.2	Hcn1
+uc007ryv.2	Fgf10
+uc007rzy.1	
+uc029sds.2	
+uc007sar.1	
+uc007sbh.2	
+uc007sbm.1	Gm8108
+uc007seh.1	Gm3558
+uc007sei.1	Gm10044
+uc057krh.1	
+uc007sem.2	
+uc007sgl.1	Olfr31
+uc011zgh.1	Nek10
+uc007sgv.1	B230110C06Rik
+uc007shz.5	
+uc011zgi.1	Gm5458
+uc007skd.1	Myoz1
+uc007ske.2	Synpo2l
+uc007slo.2	Dusp13
+uc007smn.2	
+uc007spm.2	
+uc007sqf.1	
+uc007ssa.3	
+uc007ssp.1	4933413J09Rik
+uc007stc.1	Dnah12
+uc007ste.1	Dnah12
+uc007stj.2	
+uc057krw.1	
+uc007suo.2	
+uc033goz.2	
+uc007sxd.1	Tnnc1
+uc007sxk.2	Dnah1
+uc007sxj.1	Dnah1
+uc007sxl.1	Dnah1
+uc007sxv.2	Colq
+uc007sys.1	
+uc007syv.1	Chat
+uc007szb.1	
+uc007szj.1	Vstm4
+uc007szw.1	
+uc007tad.1	Rbp3
+uc007tag.3	
+uc007tat.1	Fam25c
+uc007tbj.1	Grid1
+uc007tbu.1	Cdhr1
+uc007tbv.2	2610528A11Rik
+uc007tck.1	Dydc2
+uc007tcm.2	Mat1a
+uc007tdc.1	Gm7324
+uc007tgd.2	Ptger2
+uc057ksb.1	
+uc029sir.1	Gm15219
+uc029sis.1	
+uc057bew.2	
+uc007tjg.1	
+uc007tke.2	1700011H14Rik
+uc011zjw.1	Ccnb1ip1
+uc011zjz.1	Klhl33
+uc007tmg.1	Rnase10
+uc007tmj.2	Rnase12
+uc033gpy.1	
+uc007tmk.2	Olfr750
+uc033gpz.1	
+uc007tni.2	Slc39a2
+uc007tnj.2	Slc39a2
+uc007ttu.1	Trdv4
+uc007tuk.3	
+uc056ywr.1	Traj42
+uc007tvj.2	Trac
+uc007tvs.2	Olfr49
+uc007twe.1	Rem2
+uc007twn.2	Psmb11
+uc007twz.1	Cebpe
+uc007txm.2	Efs
+uc033gqx.1	Gm10364
+uc007tyk.2	Dhrs2
+uc007tyo.1	Lrrc16b
+uc007typ.1	Lrrc16b
+uc007tzc.1	Fitm1
+uc007uaq.1	Ltb4r2
+uc007uba.1	Cbln3
+uc007ubf.2	Cma1
+uc011zlw.1	
+uc007ubg.1	Cma2
+uc007ubh.1	Gm5801
+uc007ubn.2	Ctsg
+uc007ubo.1	Gzme
+uc007ubp.1	Gzmd
+uc007ubw.2	Atp12a
+uc007ubz.1	Rnf17
+uc007uca.2	
+uc007ucx.2	Gjb2
+uc007udc.1	Il17d
+uc007ude.1	1700039M10Rik
+uc007udw.1	3110083C13Rik
+uc007udx.2	Fgf9
+uc011zmk.1	Gm6904
+uc007uee.2	Phf11a
+uc007uer.2	Shisa2
+uc007uet.1	Atp8a2
+uc007ufu.1	Arl11
+uc007uha.2	Defb48
+uc007uhb.2	Defb47
+uc007uhs.1	Tdh
+uc007uhu.3	
+uc007uhz.1	4930578I06Rik
+uc007uia.1	Rp1l1
+uc007uib.1	Prss55
+uc029sku.1	4930471C04Rik
+uc007uie.1	Prss52
+uc057ksu.1	
+uc007ujf.1	
+uc011znp.2	
+uc007ujn.2	Scara5
+uc007uju.2	
+uc007ujx.1	Chrna2
+uc007ukg.2	Stmn4
+uc007ukp.1	Gm5464
+uc056yxj.1	
+uc007uln.2	
+uc007ulo.1	Nefm
+uc029slk.1	Gm21451
+uc007una.2	Pebp4
+uc011zoa.1	Mir320
+uc007uoa.1	Phyhip
+uc007uoe.3	
+uc007uot.2	Npm2
+uc011zoh.1	
+uc007upv.1	Nudt15
+uc007uqa.1	
+uc007uqk.1	5031414D18Rik
+uc007uql.2	Lrrc63
+uc007uqq.3	
+uc011zon.1	Spert
+uc007uqv.1	4930564B18Rik
+uc033gsf.1	
+uc007urf.1	Rps2-ps6
+uc007urp.2	
+uc007usd.2	Epsti1
+uc007use.2	Epsti1
+uc056yxp.1	
+uc007ush.1	Tnfsf11
+uc007uto.2	Pcdh17
+uc007utp.2	Pcdh17
+uc007uuh.2	Pcdh20
+uc007uuj.1	
+uc007uuq.1	Klhl1
+uc007uwu.2	4921525B02Rik
+uc029sms.1	
+uc007uxo.1	
+uc029smu.1	
+uc007uyd.2	Slitrk6
+uc011zpr.1	Slitrk5
+uc007uyt.3	
+uc007uyu.1	Gm4675
+uc057bfo.1	Gm4675
+uc007uzp.1	
+uc007vad.1	Slc15a1
+uc007vaf.1	
+uc007var.1	Timm8a2
+uc007vbq.1	Nalcn
+uc007vci.1	Gm2093
+uc011zqy.2	C7
+uc007vdl.1	Gm2245
+uc007vdm.2	Fyb
+uc033gsz.2	
+uc007vfn.1	Capsl
+uc029sns.2	Spef2
+uc007vfy.2	Prlr
+uc007vgj.2	Ttc23l
+uc029snv.1	
+uc007vgy.1	Rxfp3
+uc007vif.2	Cdh6
+uc011zro.2	
+uc007vio.1	Acot10
+uc007viz.2	
+uc007vjy.1	Dnah5
+uc007vkg.1	Ropn1l
+uc007vls.2	BC030476
+uc011zsd.1	Rgs22
+uc007vmk.1	Fbxo43
+uc007vms.1	
+uc057bfx.1	
+uc007vmv.1	Snx31
+uc007vnd.1	Gm26766
+uc011zsh.1	Odf1
+uc029sop.1	
+uc056yyn.1	
+uc007vor.1	Zfpm2
+uc007vos.1	Zfpm2
+uc007vpb.1	Abra
+uc007vpl.1	Gm10373
+uc007vpn.1	Tmem74
+uc007vpy.2	
+uc029spb.1	Aard
+uc007vrk.1	Tnfrsf11b
+uc007vrl.1	Colec10
+uc057ktt.1	
+uc007vse.1	Col14a1
+uc057bge.1	
+uc007vsk.1	Sntb1
+uc007vsl.2	Has2
+uc007vsm.1	Has2os
+uc033gtx.1	
+uc007vtl.1	Klhl38
+uc029spd.1	
+uc007vub.2	
+uc029spg.1	
+uc007vuf.2	
+uc007vug.2	
+uc029sph.1	
+uc029spi.1	
+uc007vum.2	
+uc007vun.1	
+uc007vup.2	
+uc029spj.1	
+uc007vus.1	
+uc007vuw.2	
+uc007vux.1	
+uc029spm.1	
+uc007vuy.2	
+uc007vva.2	
+uc007vvb.2	
+uc029spn.1	
+uc007vvc.1	
+uc007vvd.2	
+uc029spo.1	
+uc007vve.2	
+uc029spq.1	
+uc007vvh.1	
+uc007vvi.1	
+uc007vvj.1	
+uc029spr.1	
+uc007vvk.1	
+uc007vvm.2	
+uc029sps.1	
+uc007vvn.1	
+uc029spt.1	
+uc007vvr.1	
+uc007vvs.2	
+uc029spx.1	
+uc029spy.1	
+uc007vvt.2	
+uc007vvu.2	
+uc029spz.1	
+uc007vvx.2	
+uc029sqa.1	
+uc007vvy.1	
+uc029sqe.1	
+uc029sqf.1	
+uc029sqg.1	
+uc029sqh.1	
+uc007vwb.2	
+uc007vwd.2	
+uc029sqn.1	
+uc007vwo.2	
+uc007vws.1	
+uc007vwt.2	
+uc007vwu.2	
+uc007vwv.1	
+uc007vwz.2	
+uc007vxc.1	
+uc007vxe.2	
+uc007vxf.2	
+uc007vxh.2	
+uc029sqs.1	
+uc007vxi.2	
+uc007vxj.2	
+uc029sqt.1	
+uc029squ.1	
+uc007vxm.1	
+uc029sqy.1	
+uc007vxp.1	Zfp572
+uc007vxy.1	
+uc007vxz.1	
+uc007vye.1	
+uc007vzc.1	
+uc007vzd.1	
+uc011ztm.1	Lrrc6
+uc029sre.1	
+uc011ztq.1	Mir30d
+uc057ktz.1	
+uc057bgj.1	
+uc056yza.1	
+uc011ztr.1	Fam135b
+uc007wbj.2	Col22a1
+uc007wfr.2	Psca
+uc007wfv.1	2300005B03Rik
+uc007wfx.1	Ly6d
+uc007wga.1	Ly6k
+uc007wgg.1	2010109I03Rik
+uc007wgp.1	Ly6c2
+uc007wgq.1	
+uc007wgs.1	Ly6f
+uc007whe.1	Mafa
+uc033guj.1	Mroh6
+uc007whz.1	Mapk15
+uc007wia.1	Mapk15
+uc007wib.1	Mapk15
+uc007wie.1	
+uc057kue.1	
+uc007wka.1	Tssk5
+uc007wlm.2	Foxh1
+uc007wmz.2	Apol6
+uc007wnp.1	Apol7b
+uc007wnr.1	Apol10a
+uc011zvh.1	Apol11a
+uc007wnt.3	
+uc007wnx.1	Apol7e
+uc007wob.2	Apol8
+uc007woi.2	Foxred2
+uc007wol.1	Foxred2
+uc011zvl.1	
+uc007wpk.3	
+uc007wpp.1	Rac2
+uc007wru.1	Pdxp
+uc007wsb.1	
+uc007wta.1	Slc16a8
+uc057bgo.1	
+uc007wtb.1	Baiap2l2
+uc007wtu.3	
+uc007wvc.1	Syngr1
+uc007wvd.1	Syngr1
+uc007wvf.1	Mgat3
+uc009var.1	Cacna1i
+uc011zwh.1	Enthd1
+uc007wvr.1	Fam83f
+uc007wwf.2	4930483J18Rik
+uc007wwh.2	Mchr1
+uc007wwi.2	
+uc007wxg.1	Gm17597
+uc007wyb.1	4930407I10Rik
+uc029sua.1	AI848285
+uc007wzn.1	Cyp2d26
+uc011zxb.1	Rnu12
+uc007xbt.1	Sult4a1
+uc007xbw.1	Pnpla3
+uc007xcp.1	
+uc007xcs.2	Upk3a
+uc007xcx.1	Smc1b
+uc007xdh.1	AU022754
+uc007xdk.2	Ppara
+uc007xdm.1	Pkdrej
+uc007xdt.1	Celsr1
+uc029sug.1	
+uc007xef.1	Fam19a5
+uc007xeh.2	Zdhhc25
+uc007xer.1	Gm20621
+uc007xfa.2	Panx2
+uc007xgb.4	
+uc007xgc.1	Miox
+uc007xgm.1	Odf3b
+uc007xgn.1	Odf3b
+uc007xgx.2	Mapk8ip2
+uc007xhx.1	Abcd2
+uc007xie.1	Muc19
+uc007xih.1	Cntn1
+uc057kum.1	
+uc029suw.1	
+uc007xjn.1	Tmem117
+uc007xjs.1	Dbx2
+uc007xjt.1	
+uc007xlk.1	Vdr
+uc007xmd.2	H1fnt
+uc007xmo.1	Lalba
+uc007xmp.1	Olfr279
+uc007xnl.2	
+uc007xnx.1	Wnt1
+uc057kur.1	
+uc007xol.1	4930578M01Rik
+uc007xpf.1	Fam186b
+uc007xqd.2	
+uc007xqj.2	Fam186a
+uc007xqk.1	Fam186a
+uc007xqx.1	Mettl7a3
+uc057kut.1	
+uc033gwu.1	Bin2
+uc033gwv.1	mmu-mir-6961
+uc011zzr.1	
+uc007xsy.1	
+uc007xsz.1	Krt80
+uc011zzs.1	Mir1941
+uc007xtd.2	Krt7
+uc007xtj.2	5430421N21Rik
+uc007xto.1	4732456N10Rik
+uc007xtu.1	Krt6b
+uc007xtx.1	Krt71
+uc007xue.1	Krt76
+uc007xug.1	Krt79
+uc007xui.1	Krt8
+uc007xuj.2	Krt18
+uc007xut.1	Soat2
+uc012aaa.1	Itgb7
+uc057kuv.1	
+uc007xvq.2	Amhr2
+uc007xwq.1	
+uc012aad.1	Mir688
+uc029svj.1	D930007P13Rik
+uc007xyd.3	
+uc007xyi.2	Pde1b
+uc007xyj.1	Ppp1r1a
+uc007xyr.1	
+uc007xys.1	Olfr15
+uc057bhf.1	
+uc007ybf.3	
+uc012aay.1	Sec14l5
+uc007ycu.1	
+uc007ydf.2	Atf7ip2
+uc007ydh.2	Atf7ip2
+uc007ydi.2	Atf7ip2
+uc007ydl.3	Tekt5
+uc007ydq.1	Ciita
+uc007ydv.1	
+uc007yem.1	Gm21859
+uc007yfl.2	
+uc007yfr.1	Shisa9
+uc033gxr.1	
+uc007ygu.1	2900011O08Rik
+uc033gxy.1	Rpl31-ps12
+uc007yjg.2	Vpreb1
+uc007ykn.2	Rimbp3
+uc012abr.1	Tmem191c
+uc007ykx.2	Aifm3
+uc012abu.1	P2rx6
+uc007ylk.1	Slc7a4
+uc012abw.1	
+uc007ymk.1	Tssk1
+uc007yml.1	Tssk2
+uc007ymv.1	Rtn4r
+uc007ypb.1	Lamp3
+uc012acn.1	B3gnt5
+uc007ypk.1	Map6d1
+uc007ypn.1	Cyp2ab1
+uc007yrg.1	Ephb3
+uc007yrq.1	
+uc007ysj.2	Crygs
+uc057kvb.1	
+uc007ytk.1	Adipoq
+uc007ytl.1	B630019A10Rik
+uc007ytm.1	
+uc007ytq.1	Rtp1
+uc057kvd.1	
+uc007yuk.1	A230028O05Rik
+uc007yur.2	Trp63
+uc007yvm.1	Uts2b
+uc007yvu.2	Fgf12
+uc007ywj.1	Gm1968
+uc007ywn.2	Lrrc15
+uc007ywo.2	Gp5
+uc007ywz.1	
+uc007yxn.1	
+uc007yxv.2	
+uc007yxx.2	Pigz
+uc007yyn.2	Smco1
+uc012ael.1	Tm4sf19
+uc007yyx.1	Slc51a
+uc012aer.1	Muc20
+uc007zbj.1	Adcy5
+uc029swy.1	
+uc007zcf.1	Csta
+uc007zcg.1	Stfa2l1
+uc033gyy.1	
+uc007zcn.1	Stfa2
+uc007zcq.2	Cd86
+uc007zef.2	Hgd
+uc007zel.2	
+uc007zer.1	Maats1
+uc007zfm.2	Upk1b
+uc007zfp.2	
+uc007zfw.2	4932412D23Rik
+uc007zhe.1	
+uc012agb.1	Wdr52
+uc007zhv.1	Cd200r2
+uc007zjf.2	Cd96
+uc056zce.2	
+uc007zjl.1	Dppa4
+uc007zjn.1	Dppa2
+uc007zjp.1	Morc1
+uc012agk.1	Myh15
+uc057kvk.1	
+uc007zkj.1	
+uc007zkk.1	
+uc007zkl.1	
+uc029sxm.1	G730013B05Rik
+uc029sxn.1	
+uc007zlb.1	
+uc007zmm.1	Impg2
+uc007zmo.2	Abi3bp
+uc007zmp.2	Abi3bp
+uc007zmw.1	Gpr128
+uc057kvn.1	
+uc007zne.2	Tmem30c
+uc007znf.1	Tmem30c
+uc007znn.1	4930461C15Rik
+uc007zob.1	Gpr15
+uc007zpz.1	Epha3
+uc012ahb.1	Speer2
+uc007zrb.1	Robo1
+uc007zri.1	Robo2
+uc007zro.1	Rbm11
+uc007zrz.1	
+uc007zsf.2	2810055G20Rik
+uc007zsi.2	2810055G20Rik
+uc007zsk.1	2810055G20Rik
+uc007ztd.3	
+uc007zty.1	
+uc007ztz.1	
+uc007zua.1	
+uc007zum.1	B130034C11Rik
+uc007zun.2	B130034C11Rik
+uc012ahq.1	Map3k7cl
+uc007zvr.2	Krtap8-1
+uc007zwl.1	Mrap
+uc007zxc.1	4932438H23Rik
+uc007zyv.1	
+uc007zyw.2	Kcne2
+uc007zyz.1	4930563D23Rik
+uc007zzf.1	2410124H12Rik
+uc008acf.1	1600002D24Rik
+uc008adl.1	Tmprss2
+uc008aev.2	Nox3
+uc008afe.1	
+uc008agw.1	
+uc008ahw.1	Gm2885
+uc008ain.1	Ttll2
+uc012ajn.1	Gm9992
+uc012ajs.2	
+uc029szo.1	Gm16702
+uc008ajv.2	1700010I14Rik
+uc012ajw.1	
+uc029szq.1	
+uc008akg.1	Pacrg
+uc008akj.3	
+uc029szr.1	
+uc008akx.2	
+uc008alg.1	Mrgprh
+uc012akk.1	
+uc008ame.2	
+uc057kwg.1	
+uc008amm.1	
+uc008amu.1	Gm7168
+uc008amv.2	Dact2
+uc008anb.2	Thbs2
+uc008anl.2	Gm3417
+uc057biv.1	
+uc029tao.1	
+uc057kwk.1	
+uc008apz.2	Vmn2r107
+uc009vbm.1	Vmn2r109
+uc008aqj.1	Vmn1r233
+uc008arn.1	Zfp947
+uc033hbh.1	
+uc033hbk.1	
+uc033hbl.1	
+uc033hbm.1	
+uc008asy.1	1520401A03Rik
+uc008atl.1	Flywch2
+uc008atm.1	D930048G16Rik
+uc008atw.1	Prss41
+uc012ama.1	Prss32
+uc008aue.2	Prss30
+uc012amb.1	Prss22
+uc008aug.1	Prss27
+uc008axm.2	Npw
+uc008axq.1	Syngr3
+uc008axw.2	
+uc008ayf.2	Rpl3l
+uc012ams.1	Meiob
+uc008ayn.1	Igfals
+uc008bap.2	Prss29
+uc012anf.1	Tpsab1
+uc008bay.1	Sox8
+uc008bbb.2	2810468N07Rik
+uc008bbn.1	Mslnl
+uc008bbo.1	Msln
+uc008bcm.2	Wfikkn1
+uc008bcu.1	Nhlrc4
+uc008bcv.1	A930017K11Rik
+uc008bdp.1	Arhgdig
+uc008bdq.1	Rgs11
+uc057kwv.1	
+uc008bls.2	
+uc008bly.1	
+uc012anv.1	Gm10505
+uc008bpo.2	Spdef
+uc008bqd.1	Scube3
+uc008bqe.1	Scube3
+uc012aog.2	
+uc008brd.2	Armc12
+uc008brg.2	Lhfpl5
+uc056zdz.1	Slc26a8
+uc008brk.1	Slc26a8
+uc008bro.2	Mapk13
+uc008bru.1	4930539E08Rik
+uc008brv.1	Pxt1
+uc008bsi.1	Rab44
+uc008bsk.2	Cpne5
+uc008btg.1	
+uc008bud.1	Glp1r
+uc008buu.2	
+uc008bvg.1	4833413E03Rik
+uc008bvv.1	Pdxk-ps
+uc008bww.1	Rasal3
+uc008bwx.2	
+uc012apc.1	Cyp4f40
+uc008bxq.2	Cyp4f14
+uc008byl.2	
+uc008bzy.1	BC033916
+uc008cbr.1	H2-DMb1
+uc012aqk.1	Tnxb
+uc012aql.1	Tnxb
+uc008cdk.3	
+uc008cdo.2	Cyp21a1
+uc008cdp.1	C4a
+uc012aqm.1	C4a
+uc008cdz.2	C2
+uc008ceh.2	Slc44a4
+uc012aqv.1	Msh5
+uc008cfe.3	Msh5
+uc008cfr.1	Ly6g5c
+uc008cga.1	Apom
+uc008cgl.1	Aif1
+uc008cgm.1	Aif1
+uc008cgu.2	Lta
+uc008cht.1	H2-Q10
+uc008chz.4	
+uc008cia.1	Cdsn
+uc012aro.1	Dpcr1
+uc029thk.1	4833427F10Rik
+uc012ary.1	Gm8801
+uc008ckj.1	Gm10499
+uc012asn.2	Gm8909
+uc008ckp.1	Gm20546
+uc012asu.1	H2-M10.2
+uc012asw.1	H2-M9
+uc008clc.1	H2-M9
+uc008cld.1	H2-M1
+uc008clf.2	H2-M10.6
+uc008cli.2	Trim15
+uc008clj.2	Trim10
+uc029thp.1	1700031A10Rik
+uc008clt.1	H2-M5
+uc008clx.1	Mog
+uc008cmp.1	Olfr99
+uc008cmq.1	Olfr101
+uc008cmz.1	H2-M2
+uc008cnx.1	Olfr131
+uc008coh.2	Crisp1
+uc008col.1	Rhag
+uc008coq.1	Opn5
+uc008cos.1	Gpr111
+uc008coz.2	Gpr110
+uc029thx.1	Ankrd66
+uc012atr.1	Pla2g7
+uc008cqp.1	Spats1
+uc008cqq.1	Spats1
+uc008cqu.2	Tmem151b
+uc008crk.1	1600014C23Rik
+uc008crm.1	F630040K05Rik
+uc008crt.1	Rsph9
+uc008csx.2	Ttbk1
+uc008csy.2	Ttbk1
+uc008cth.2	Ptk7
+uc008cue.1	Gnmt
+uc008cuh.1	Ptcra
+uc008cuo.1	Prph2
+uc008cvb.1	Guca1b
+uc008cwb.1	Pgc
+uc029tij.2	Trem1
+uc008cwy.2	Trem3
+uc008cxx.1	Apobec2
+uc056zfc.2	
+uc029tir.1	
+uc008czl.1	Efhb
+uc033hen.1	4932415M13Rik
+uc008czy.1	Slc5a7
+uc009vbv.1	Vmn2r118
+uc008dae.2	Emr4
+uc008dan.1	Fsd1
+uc008dbo.1	Arrdc5
+uc012avy.1	Prr22
+uc008ded.1	Tnfsf9
+uc008der.2	Vav1
+uc008dgf.2	Txndc2
+uc029tje.1	
+uc008dhg.2	
+uc008dhh.2	
+uc029tjp.1	
+uc008dkf.1	Lrrc30
+uc008dkr.2	
+uc056zfk.1	Mir1195
+uc057kyo.1	
+uc008dlz.1	Myom1
+uc012aws.1	
+uc008dni.1	
+uc008dnk.2	Galnt14
+uc008dnt.1	Srd5a2
+uc008dqu.2	Ttc39d
+uc012axs.1	Arhgef33
+uc012axt.1	Gm10190
+uc008dri.2	Cdkl4
+uc008drm.2	
+uc029tkw.1	
+uc008dsk.1	Haao
+uc008dsl.1	Haao
+uc008dsm.1	C430042M11Rik
+uc033hfh.1	
+uc008dsn.2	
+uc029tkx.1	
+uc008dso.1	
+uc057kyt.1	
+uc008dsp.1	
+uc008dsz.2	Abcg5
+uc008duc.2	Six2
+uc008duw.2	1700011E24Rik
+uc008duy.1	Epcam
+uc008dvc.1	Kcnk12
+uc012ayn.1	Gm4832
+uc008dvt.2	Gtf2a1l
+uc012ayp.1	Lhcgr
+uc012ayr.1	
+uc008dwd.1	Nrxn1
+uc029tln.1	Gm10556
+uc008eah.1	Gjd4
+uc008eas.1	Greb1l
+uc008eat.1	Greb1l
+uc029tlr.1	4930563E18Rik
+uc008ebt.1	
+uc029tlx.1	Gm15328
+uc008eek.2	Dsg1c
+uc008ees.3	Dsg2
+uc008efg.1	Garem
+uc008efh.1	Garem
+uc008efi.1	Klhl14
+uc057kzh.1	
+uc056zfy.2	
+uc057kzl.1	
+uc057kzm.1	
+uc008ehp.1	
+uc008ehr.1	
+uc008ehy.1	Syt4
+uc008eix.2	Myo7b
+uc033hga.1	mmu-mir-6361
+uc029tmf.1	Gm10549
+uc008ekq.2	Wnt8a
+uc012baz.1	4933408B17Rik
+uc008elg.1	2010110K18Rik
+uc008elh.1	2010110K18Rik
+uc008emm.2	Mzb1
+uc012bbl.2	
+uc008eoe.1	E230025N22Rik
+uc012bbu.1	Vaultrc5
+uc008eua.1	Gpr151
+uc008euk.2	Jakmip2
+uc008eup.1	Spink5
+uc012bcp.1	Trim36
+uc008evn.1	
+uc012bcs.1	Mospd4
+uc008evp.2	Ticam2
+uc012bcu.1	4833403I15Rik
+uc008ewm.1	Gm16283
+uc008ewz.1	Prr16
+uc008eyz.2	Megf10
+uc008ezl.1	
+uc008ezn.1	Fbn2
+uc008ezp.1	Slc27a6
+uc008ezv.1	Chsy3
+uc008ezw.1	Chsy3
+uc012bdk.1	Gm4841
+uc008faa.2	F830016B08Rik
+uc012bdl.1	Myoz3
+uc029tna.1	
+uc008fbe.1	Arsi
+uc008fbv.2	
+uc008fbw.1	Rps2-ps10
+uc033hhn.1	
+uc008fby.1	
+uc057kzx.1	
+uc008fef.1	Onecut2
+uc008feg.2	Amd-ps3
+uc008feu.4	
+uc008ffk.3	Grp
+uc008ffl.1	Rax
+uc029tox.1	
+uc008fmk.1	Slmo1
+uc008fnl.2	Mc5r
+uc029tpa.1	4930546C10Rik
+uc008fnw.1	Ccdc68
+uc008fop.1	Dcc
+uc008fpo.1	Myo5b
+uc008fpp.1	Myo5b
+uc008fpr.1	Myo5b
+uc012bey.1	Scarna17
+uc008fpu.2	Lipg
+uc033hia.1	mmu-mir-6358
+uc008fqw.1	Katnal2
+uc008frj.2	Rnf165
+uc008fry.1	Pstpip2
+uc008fuc.2	4930445N18Rik
+uc057lab.1	
+uc008fuh.1	
+uc008fvq.1	
+uc008fvr.1	Dok6
+uc008fvw.1	
+uc008fwj.1	Gal
+uc008fws.1	
+uc029tql.1	1700055N04Rik
+uc008fxw.2	Aldh3b2
+uc008fyx.2	
+uc012bgg.1	Tbc1d10c
+uc008fze.1	Tbc1d10c
+uc008gbb.1	Ccdc87
+uc008gbf.2	Actn3
+uc056zhe.1	
+uc008gcc.1	Tmem151a
+uc008gco.2	Gal3st3
+uc008gcp.1	Catsper1
+uc008geu.1	Kcnk7
+uc008ghj.1	
+uc056zhi.1	
+uc008ghy.1	Gm14963
+uc008giu.2	Nrxn2
+uc008gix.1	Nrxn2
+uc008giy.1	Nrxn2
+uc008gjb.1	Ccdc88b
+uc008gji.1	Tex40
+uc008gjj.1	Kcnk4
+uc008gky.1	
+uc008gnn.2	
+uc008gom.1	Scgb1a1
+uc057lag.1	
+uc012bio.2	Lrrc10b
+uc008gps.1	Ppp1r32
+uc008gqv.1	Cd5
+uc012biq.1	
+uc008gro.1	Ms4a8a
+uc008grw.1	Ms4a1
+uc008gsk.1	Ms4a6b
+uc033hjo.1	
+uc033hjq.1	
+uc033hjr.1	
+uc033hjs.1	
+uc008gub.1	Mpeg1
+uc008guc.2	Dtx4
+uc008gul.2	Keg1
+uc008guq.1	Lpxn
+uc008guv.2	
+uc008gws.1	C130060C02Rik
+uc008gxc.1	Foxb2
+uc008gyr.1	Tmc1
+uc008gys.2	
+uc008gyt.1	
+uc008gyu.1	
+uc008gzt.1	Trpm3
+uc057lal.1	
+uc008gzx.1	C330002G04Rik
+uc008gzy.1	2410080I02Rik
+uc008hac.1	Mamdc2
+uc008hbm.1	Dmrt2
+uc008hbw.1	Kcnv2
+uc012bkb.1	
+uc008hcz.2	
+uc008hde.2	Rln1
+uc008hej.2	Gldc
+uc008hel.1	Mbl2
+uc008hen.3	
+uc057las.1	
+uc008hfz.1	Lipn
+uc012bks.1	Lipm
+uc008hhm.2	Hectd2
+uc008hhs.1	Ppp1r3c
+uc029tsd.1	
+uc029tse.1	
+uc008hij.3	
+uc012ble.1	Cyp26c1
+uc008his.2	Cyp26a1
+uc008hiw.1	I830134H01Rik
+uc008hju.1	Cyp2c55
+uc057lav.1	
+uc008hli.1	E030044B06Rik
+uc008hlu.1	Pik3ap1
+uc008hmf.2	Slit1
+uc008hmi.2	
+uc008hna.1	Ankrd2
+uc008hnl.2	Sfrp5
+uc008hno.1	Crtac1
+uc008hoq.2	
+uc008how.1	Abcc2
+uc012bmc.1	Gm10768
+uc008hpa.2	
+uc008hpm.2	Pkd2l1
+uc008hpn.1	Scd3
+uc008hpq.1	Scd4
+uc008hqa.3	
+uc008hqf.1	Sema4g
+uc056zin.1	
+uc008hqv.1	Lbx1
+uc008hrb.1	
+uc008hrr.2	Kcnip2
+uc008hrs.2	Kcnip2
+uc008hsk.1	Elovl3
+uc008hsl.2	
+uc008hua.2	Cyp17a1
+uc008hus.1	Calhm1
+uc008hut.1	Neurl1a
+uc008hvw.1	Ccdc147
+uc008hvx.1	Sorcs3
+uc008hwe.1	
+uc008hwh.1	
+uc008hwn.2	
+uc057lba.1	
+uc008hxo.2	Gucy2g
+uc029tsx.1	4930552P12Rik
+uc008hze.2	Adrb1
+uc008hzl.1	Vwa2
+uc008iau.2	Pnliprp2
+uc008iay.1	Hspa12a
+uc008iba.2	
+uc012bob.1	Eno4
+uc008ibh.1	Kcnk18
+uc012bod.1	Emx2os
+uc008ibl.1	Emx2
+uc057lbf.1	
+uc008ibo.1	Gm4219
+uc008ibp.1	E330013P04Rik
+uc008ibu.2	Prlhr
+uc033hlh.1	
+uc009skg.1	
+uc029ttw.2	AC133103.5
+uc029tup.1	
+uc009oae.1	Csprs
