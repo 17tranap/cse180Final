@@ -1,5 +1,5 @@
 # Python Scripts for Post-Processing of DESeq2 Output Files
-### Alexandria Tran, Riya Verma, Jiayan Ma, Peem Takoonsawat
+### Alexandria Tran, Riya Verma, Jiayan Ma
 
 After completion of an RNA-seq differential expression analysis workflow, two files require post-processing for neater visualization. 
 
