@@ -18,4 +18,8 @@ These scripts were built to clean up the file outputs that used the Mus Musculus
 #### Input: File paths to counts and stats files with relevant annotated genes
 With the known genes, we select only the rows with significant p-values of below 0.05 using getSignificantGenes.py and the relevant genes stats file. Using this set of significant genes, we then only select the feature counts rows of these genes in makeNewFeatureCounts.py. 
 
-This makeNewFeatureCounts.py file now is ready to be inputted to visualization softwares, 
+This makeNewFeatureCounts.py file now is ready to be inputted to visualization softwares.
+
+## Note about data:
+As the datasets come from a UC San Diego Lab, access to original sequence read datasets requires permission. Code for the tools and pipelines used to generate the sample data for these Python scripts can be found at: https://usegalaxy.org:/u/riya_verma/h/cse180-final-project
+
